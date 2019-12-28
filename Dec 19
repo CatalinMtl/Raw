@@ -1,0 +1,108 @@
+#EXTM3U										
+#EXTINF:-1, tvg-id="NickJr.ro"	 tvg-logo="http://static.iptv-epg.com/ro/NickJr.ro.png"	tvg-name="Nick Jr."	 group-title="•●★ 01_Kids ★●•"	,	Nick Jr.	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/64.ts
+#EXTINF:-1, tvg-id="NickJr.es"	 tvg-logo="http://static.iptv-epg.com/es/NickJr.es.png"	tvg-name="[ES] NICK JR"	 group-title="•●★ 01_Kids ★●•"	,	[ES] NICK JR ES	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4616.ts
+#EXTINF:-1, tvg-id="EPG N/A"	 tvg-logo="Logo N/A"	tvg-name="[IT] NickJr"	 group-title="•●★ 01_Kids ★●•"	,	[IT] NickJr IT	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4461.ts
+#EXTINF:-1, tvg-id="EPG N/A"	 tvg-logo="Logo N/A"	tvg-name="Masha and the Bear (ENG)"	 group-title="•●★ 01_Kids ★●•"	,	Masha and the Bear (ENG)	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3848.ts
+#EXTINF:-1, tvg-id="DisneyJunior.ro"	 tvg-logo="http://static.iptv-epg.com/ro/DisneyJunior.ro.png"	tvg-name="DISNEY JUNIOR"	 group-title="•●★ 01_Kids ★●•"	,	DISNEY JUNIOR	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/58.ts
+#EXTINF:-1, tvg-id="DisneyChannel.ro"	 tvg-logo="http://static.iptv-epg.com/ro/DisneyChannel.ro.png"	tvg-name="DISNEY CHANNEL"	 group-title="•●★ 01_Kids ★●•"	,	DISNEY CHANNEL	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/57.ts
+#EXTINF:-1, tvg-id="DisneyJunior.de"	 tvg-logo="http://static.iptv-epg.com/de/DisneyJunior.de.png"	tvg-name="[DE] Disney Jr DE"	 group-title="•●★ 01_Kids ★●•"	,	[DE] Disney Jr DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4752.ts
+#EXTINF:-1, tvg-id="DisneyChannel.de"	 tvg-logo="http://static.iptv-epg.com/de/DisneyChannel.de.png"	tvg-name="[DE] Disney Channel HD DE"	 group-title="•●★ 01_Kids ★●•"	,	[DE] Disney Channel HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4754.ts
+#EXTINF:-1, tvg-id="DisneyXD.de"	 tvg-logo="http://static.iptv-epg.com/de/DisneyXD.de.png"	tvg-name="[DE] Disney XD DE"	 group-title="•●★ 01_Kids ★●•"	,	[DE] Disney XD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4751.ts
+#EXTINF:-1, tvg-id="EPG N/A"	 tvg-logo="Logo N/A"	tvg-name="[DE] Eagle Cinema Animation HD"	 group-title="•●★ 01_Kids ★●•"	,	[DE] Eagle Cinema Animation HD	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/2772.ts
+#EXTINF:-1, tvg-ID=""	  tvg-logo=""	tvg-name="Boomerang RO"	 group-title="•●★ 01_Kids ★●•", Boomerang RO	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/60.ts
+#EXTINF:-1, tvg-id="EPG N/A"	 tvg-logo="Logo N/A"	tvg-name="LID-AS Kids HD"	 group-title="•●★ 01_Kids ★●•"	,	LID-AS 01_Kids HD	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/113.ts
+#EXTINF:-1, tvg-id="EPG N/A"	 tvg-logo="Logo N/A"	tvg-name="LID-AS Junior FHD"	 group-title="•●★ 01_Kids ★●•"	,	LID-AS Junior FHD	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/114.ts
+#EXTINF:-1, tvg-id="JimJam.ro"	 tvg-logo="http://static.iptv-epg.com/ro/JimJam.ro.png"	tvg-name="JimJam"	 group-title="•●★ 01_Kids ★●•"	,	JimJam	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/67.ts
+#EXTINF:-1, tvg-id="Megamax.ro"	 tvg-logo="http://static.iptv-epg.com/ro/Megamax.ro.png"	tvg-name="MEGAMAX"	 group-title="•●★ 01_Kids ★●•"	,	MEGAMAX	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/61.ts
+#EXTINF:-1, tvg-id="EPG N/A"	 tvg-logo="Logo N/A"	tvg-name="DUCK TV"	 group-title="•●★ 01_Kids ★●•"	,	DUCK TV	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/68.ts
+#EXTINF:-1, tvg-id="EPG N/A"	 tvg-logo="Logo N/A"	tvg-name="Nicktoons Romania"	 group-title="•●★ 01_Kids ★●•"	,	Nicktoons Romania	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/63.ts
+#EXTINF:-1, tvg-id="Boomerang.ro"	 tvg-logo="http://static.iptv-epg.com/ro/Boomerang.ro.png"	tvg-name="BOOMERANG"	 group-title="•●★ 01_Kids ★●•"	,	BOOMERANG	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/610.ts
+#EXTINF:-1, tvg-id="Minimax.ro"	 tvg-logo="http://static.iptv-epg.com/ro/Minimax.ro.png"	tvg-name="MINIMAX"	 group-title="•●★ 01_Kids ★●•"	,	MINIMAX	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/62.ts
+#EXTINF:-1, tvg-id="Nickelodeon.ro"	 tvg-logo="http://static.iptv-epg.com/ro/Nickelodeon.ro.png"	tvg-name="NICKELODEON"	 group-title="•●★ 01_Kids ★●•"	,	NICKELODEON	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/65.ts
+#EXTINF:-1, tvg-id="Nickelodeon.ro"	 tvg-logo="http://static.iptv-epg.com/ro/Nickelodeon.ro.png"	tvg-name="Nickelodeon HD"	 group-title="•●★ 01_Kids ★●•"	,	Nickelodeon HD	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/66.ts
+#EXTINF:-1, tvg-id="Nickelodeon.de"	 tvg-logo="http://static.iptv-epg.com/de/Nickelodeon.de.png"	tvg-name="[DE] Nickelodeon HD DE"	 group-title="•●★ 01_Kids ★●•"	,	[DE] Nickelodeon HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4757.ts
+#EXTINF:-1, tvg-id="Nickelodeon.it"	 tvg-logo="http://static.iptv-epg.com/it/Nickelodeon.it.png"	tvg-name="[IT] Nickelodeon"	 group-title="•●★ 01_Kids ★●•"	,	[IT] Nickelodeon IT	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4462.ts
+#EXTINF:-1, tvg-id="Nickelodeon.es"	 tvg-logo="http://static.iptv-epg.com/es/Nickelodeon.es.png"	tvg-name="[ES] NICKELODEON HD"	 group-title="•●★ 01_Kids ★●•"	,	[ES] NICKELODEON HD ES	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4617.ts
+#EXTINF:-1, tvg-id="DeAKids.it"	 tvg-logo="http://static.iptv-epg.com/it/DeAKids.it.png"	tvg-name="[IT] DeAKids"	 group-title="•●★ 01_Kids ★●•"	,	[IT] DeA01_Kids	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4520.ts
+#EXTINF:-1, tvg-id="DeAJunior.it"	 tvg-logo="http://static.iptv-epg.com/it/DeAJunior.it.png"	tvg-name="[IT] DeAJunior"	 group-title="•●★ 01_Kids ★●•"	,	[IT] DeAJunior	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4521.ts
+#EXTINF:-1, tvg-id="CartoonNetwork.de"	 tvg-logo="http://static.iptv-epg.com/de/CartoonNetwork.de.png"	tvg-name="[DE] Cartoon Network DE"	 group-title="•●★ 01_Kids ★●•"	,	[DE] Cartoon Network DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4756.ts
+#EXTINF:-1, tvg-id="CartoonNetwork.ro"	 tvg-logo="http://static.iptv-epg.com/ro/CartoonNetwork.ro.png"	tvg-name="CARTOON NETWORK"	 group-title="•●★ 01_Kids ★●•"	,	CARTOON NETWORK	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/59.ts
+#EXTINF:-1, tvg-id="Boomerang.de"	 tvg-logo="http://static.iptv-epg.com/de/Boomerang.de.png"	tvg-name="[DE] Boomerang DE"	 group-title="•●★ 01_Kids ★●•"	,	[DE] Boomerang DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4758.ts
+#EXTINF:-1, tvg-id="Sat1.de"	 tvg-logo="http://static.iptv-epg.com/de/Sat1.de.png"	tvg-name="[DE] Sat 1 HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] Sat 1 HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4699.ts
+#EXTINF:-1, tvg-id="Sat1Gold.de"	 tvg-logo="http://static.iptv-epg.com/de/Sat1Gold.de.png"	tvg-name="[DE]Sat 1 Gold"	 group-title="•●★ Germania ★●•"	,	[DE] Sat 1 Gold	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4700.ts
+#EXTINF:-1, tvg-id="Sat1Emotions.de"	 tvg-logo="http://static.iptv-epg.com/de/Sat1Emotions.de.png"	tvg-name="[DE]Sat.1 Emotions"	 group-title="•●★ Germania ★●•"	,	[DE] Sat 1 Emotions	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4787.ts
+#EXTINF:-1, tvg-id="Pro7.de"	 tvg-logo="http://static.iptv-epg.com/de/Pro7.de.png"	tvg-name="[DE] ProSieben HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] ProSieben HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4697.ts
+#EXTINF:-1, tvg-id="ProSiebenMaxx.de"	 tvg-logo="http://static.iptv-epg.com/de/ProSiebenMaxx.de.png"	tvg-name="[DE] ProSieben Maxx HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] ProSieben Maxx HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4698.ts
+#EXTINF:-1, tvg-id="Kabel1.de"	 tvg-logo="http://static.iptv-epg.com/de/Kabel1.de.png"	tvg-name="[DE] Kabel Eins HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] Kabel 1 HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4702.ts
+#EXTINF:-1, tvg-id="KabelEinsClassic.de"	 tvg-logo="http://static.iptv-epg.com/de/KabelEinsClassic.de.png"	tvg-name="[DE]Kabel 1 Classics"	 group-title="•●★ Germania ★●•"	,	[DE] Kabel 1 Classics	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4703.ts
+#EXTINF:-1, tvg-id="KabelEinsDoku.de"	 tvg-logo="http://static.iptv-epg.com/de/KabelEinsDoku.de.png"	tvg-name="[DE]Kabel 1 Doku"	 group-title="•●★ Germania ★●•"	,	[DE] Kabel 1 Doku	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4784.ts
+#EXTINF:-1, tvg-id="RTL.de"	 tvg-logo="http://static.iptv-epg.com/de/RTL.de.png"	tvg-name="[DE] RTL HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] RTL HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4693.ts
+#EXTINF:-1, tvg-id="RTL2.de"	 tvg-logo="http://static.iptv-epg.com/de/RTL2.de.png"	tvg-name="[DE] RTL 2 HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] RTL 2 HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4694.ts
+#EXTINF:-1, tvg-id="3sat.at"	 tvg-logo="http://static.iptv-epg.com/at/3sat.at.png"	tvg-name="[DE] 3sat HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] 3sat HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4691.ts
+#EXTINF:-1, tvg-id="ZDF.de"	 tvg-logo="http://static.iptv-epg.com/de/ZDF.de.png"	tvg-name="[DE] ZDF HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] ZDF HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4692.ts
+#EXTINF:-1, tvg-id="ZDFinfo.de"	 tvg-logo="http://static.iptv-epg.com/de/ZDFinfo.de.png"	tvg-name="[DE]ZDF info"	 group-title="•●★ Germania ★●•"	,	[DE] ZDF info	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4788.ts
+#EXTINF:-1, tvg-id="13thStreet.de"	 tvg-logo="http://static.iptv-epg.com/de/13thStreet.de.png"	tvg-name="[DE] 13th Street HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] 13th Street HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4778.ts
+#EXTINF:-1, tvg-id="AlAan.ae"	 tvg-logo="http://static.iptv-epg.com/ae/AlAan.ae.png"	tvg-name="[DE] A&E DE"	 group-title="•●★ Germania ★●•"	,	[DE] A&E DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4786.ts
+#EXTINF:-1, tvg-id="Anixe.de"	 tvg-logo="http://static.iptv-epg.com/de/Anixe.de.png"	tvg-name="[DE] Anixe HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] Anixe HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4705.ts
+#EXTINF:-1, tvg-id="ARTE.de"	 tvg-logo="http://static.iptv-epg.com/de/ARTE.de.png"	tvg-name="[DE] arte HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] arte HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4690.ts
+#EXTINF:-1, tvg-id="EPG N/A"	 tvg-logo="Logo N/A"	tvg-name="[DE] ATV DE"	 group-title="•●★ Germania ★●•"	,	[DE] ATV DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4797.ts
+#EXTINF:-1, tvg-id="AXN.de"	 tvg-logo="http://static.iptv-epg.com/de/AXN.de.png"	tvg-name="[DE] AXN HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] AXN HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4793.ts
+#EXTINF:-1, tvg-id="Classica.de"	 tvg-logo="http://static.iptv-epg.com/de/Classica.de.png"	tvg-name="[DE] Classica DE"	 group-title="•●★ Germania ★●•"	,	[DE] Classica DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4741.ts
+#EXTINF:-1, tvg-id="ComedyCentral.de"	 tvg-logo="http://static.iptv-epg.com/de/ComedyCentral.de.png"	tvg-name="[DE] Comedy Central HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] Comedy Central HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4796.ts
+#EXTINF:-1, tvg-id="CrimeInvestigation.de"	 tvg-logo="http://static.iptv-epg.com/de/CrimeInvestigation.de.png"	tvg-name="[DE]Crime Investigation"	 group-title="•●★ Germania ★●•"	,	[DE] Crime Investigation	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4749.ts
+#EXTINF:-1, tvg-id="ARD.de"	 tvg-logo="http://static.iptv-epg.com/de/ARD.de.png"	tvg-name="[DE] Das Erste HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] Das Erste HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4689.ts
+#EXTINF:-1, tvg-id="DiscoveryHD.de"	 tvg-logo="Logo N/A"	tvg-name="[DE] Discovery HD DE"	 group-title="•●★ Germania ★●•"	,	[DE] Discovery HD DE	
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4742.ts
+#EXTINF:-1, tvg-id="DisneyCinemagic.de"	 tvg-logo="Logo N/A"	tvg-name="[DE] Disney Cinemagic HD DE"	 group-titl
