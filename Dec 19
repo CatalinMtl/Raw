@@ -5,6 +5,24 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/64.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3848.ts
 #EXTINF:-1	,	tvg-id="DisneyJunior.ro"	tvg-logo="http://static.iptv-epg.com/ro/DisneyJunior.ro.png"	tvg-name="DISNEY JUNIOR"	group-title="•●★ 01_Kids ★●•"	,	DISNEY JUNIOR
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/58.ts
+#EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[ES] NICK JR"	group-title="•●★ 01_Kids ★●•"	,	[ES] NICK JR
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4616.ts
+#EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[USA] NICK JR"	group-title="•●★ 01_Kids ★●•"	,	[USA] NICK JR
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6419.ts
+#EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[USA] NICKTOONS"	group-title="•●★ 01_Kids ★●•"	,	[USA] NICKTOONS
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6417.ts
+#EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[USA] NICK JR.TOO"	group-title="•●★ 01_Kids ★●•"	,	[USA] NICK JR.TOO
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6418.ts
+#EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[IT] NickJr"	group-title="•●★ 01_Kids ★●•"	,	[IT] NickJr
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5671.ts
+#EXTINF:-1	,	tvg-ID=""	tvg-logo=""	tvg-name="[UK] NICK JUNIOR"	group-title="•●★ 01_Kids ★●•"	,	[UK] NICK JUNIOR
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4291.ts
+#EXTINF:-1	,	tvg-ID=""	tvg-logo=""	tvg-name="[UK] NICK JR TOO"	group-title="•●★ 01_Kids ★●•"	,	[UK] NICK JR TOO
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4292.ts
+#EXTINF:-1	,	tvg-ID=""	tvg-logo=""	tvg-name="[UK] NICK"	group-title="•●★ 01_Kids ★●•"	,	[UK] NICK
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4294.ts
+#EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] NICK JUNIOR"	group-title="•●★ 01_Kids ★●•"	,	[PT] NICK JUNIOR
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1786.ts
 #EXTINF:-1	,	tvg-id="DisneyChannel.ro"	tvg-logo="http://static.iptv-epg.com/ro/DisneyChannel.ro.png"	tvg-name="DISNEY CHANNEL"	group-title="•●★ 01_Kids ★●•"	,	DISNEY CHANNEL
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/57.ts
 #EXTINF:-1	,	tvg-id="DisneyJunior.de"	tvg-logo="http://static.iptv-epg.com/de/DisneyJunior.de.png"	tvg-name="[DE] Disney Jr DE"	group-title="•●★ 01_Kids ★●•"	,	[DE] Disney Jr DE
@@ -35,6 +53,10 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4757.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4756.ts
 #EXTINF:-1	,	tvg-id="CartoonNetwork.ro"	tvg-logo="http://static.iptv-epg.com/ro/CartoonNetwork.ro.png"	tvg-name="CARTOON NETWORK"	group-title="•●★ 01_Kids ★●•"	,	CARTOON NETWORK
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/59.ts
+#EXTINF:-1	,	tvg-id="DisneyCinemagic.de"	tvg-logo="Logo N/A"	tvg-name="[DE] Disney Cinemagic HD DE"	group-title="•●★ 01_Kids ★●•"	,	[DE] Disney Cinemagic HD DE
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4753.ts
+#EXTINF:-1	,	tvg-id="Junior.de"	tvg-logo="http://static.iptv-epg.com/de/Junior.de.png"	tvg-name="[DE] Junior DE"	group-title="•●★ 01_Kids ★●•"	,	[DE] Junior DE
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4759.ts
 #EXTINF:-1	,	tvg-id="Boomerang.de"	tvg-logo="http://static.iptv-epg.com/de/Boomerang.de.png"	tvg-name="[DE] Boomerang DE"	group-title="•●★ 01_Kids ★●•"	,	[DE] Boomerang DE
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4758.ts
 #EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[CA] ZESTE QC"	group-title="•●★ Canada ★●•"	,	[CA] ZESTE QC
@@ -463,12 +485,6 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6414.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6415.ts
 #EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[USA] ONE AMERICA NEWS"	group-title="•●★ U.S.A. ★●•"	,	[USA] ONE AMERICA NEWS
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6416.ts
-#EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[USA] NICKTOONS"	group-title="•●★ 01_Kids ★●•"	,	[USA] NICKTOONS
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6417.ts
-#EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[USA] NICK JR.TOO"	group-title="•●★ 01_Kids ★●•"	,	[USA] NICK JR.TOO
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6418.ts
-#EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[USA] NICK JR"	group-title="•●★ 01_Kids ★●•"	,	[USA] NICK JR
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6419.ts
 #EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[USA] NICK HD"	group-title="•●★ U.S.A. ★●•"	,	[USA] NICK HD
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6420.ts
 #EXTINF:-55	,	tvg-ID=""	tvg-logo=""	tvg-name="[USA] NHL NETWORK"	group-title="•●★ U.S.A. ★●•"	,	[USA] NHL NETWORK
@@ -813,8 +829,6 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4749.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4689.ts
 #EXTINF:-1	,	tvg-id="DiscoveryHD.de"	tvg-logo="Logo N/A"	tvg-name="[DE] Discovery HD DE"	group-title="•●★ Germania ★●•"	,	[DE] Discovery HD DE
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4742.ts
-#EXTINF:-1	,	tvg-id="DisneyCinemagic.de"	tvg-logo="Logo N/A"	tvg-name="[DE] Disney Cinemagic HD DE"	group-title="•●★ 01_Kids ★●•"	,	[DE] Disney Cinemagic HD DE
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4753.ts
 #EXTINF:-1	,	tvg-id="DMax.de"	tvg-logo="http://static.iptv-epg.com/de/DMax.de.png"	tvg-name="[DE]DMAX"	group-title="•●★ Germania ★●•"	,	[DE] DMAX
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4706.ts
 #EXTINF:-1	,	tvg-id="EEntertainment.th"	tvg-logo="http://static.iptv-epg.com/th/EEntertainment.th.png"	tvg-name="[DE] E! Entertainm HD DE"	group-title="•●★ Germania ★●•"	,	[DE] E! Entertainm HD DE
@@ -827,8 +841,6 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4777.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4744.ts
 #EXTINF:-1	,	tvg-id="HR.de"	tvg-logo="http://static.iptv-epg.com/de/HR.de.png"	tvg-name="[DE] HR HD DE"	group-title="•●★ Germania ★●•"	,	[DE] HR HD DE
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4794.ts
-#EXTINF:-1	,	tvg-id="Junior.de"	tvg-logo="http://static.iptv-epg.com/de/Junior.de.png"	tvg-name="[DE] Junior DE"	group-title="•●★ 01_Kids ★●•"	,	[DE] Junior DE
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4759.ts
 #EXTINF:-1	,	tvg-id="Kika.de"	tvg-logo="http://static.iptv-epg.com/de/Kika.de.png"	tvg-name="[DE] KIKA HD DE"	group-title="•●★ Germania ★●•"	,	[DE] KIKA HD DE
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4750.ts
 #EXTINF:-1	,	tvg-id="Kinowelt.de"	tvg-logo="http://static.iptv-epg.com/de/Kinowelt.de.png"	tvg-name="[DE] Kinowelt TV DE"	group-title="•●★ Germania ★●•"	,	[DE] Kinowelt TV DE
@@ -2357,8 +2369,6 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5674.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5673.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[IT] Nickelodeon"	group-title="•●★ Italia ★●•"	,	[IT] Nickelodeon
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5672.ts
-#EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[IT] NickJr"	group-title="•●★ 01_Kids ★●•"	,	[IT] NickJr
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5671.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[IT] NoveFHD"	group-title="•●★ Italia ★●•"	,	[IT] NoveFHD
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5670.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[IT] ParamountChannel"	group-title="•●★ Italia ★●•"	,	[IT] ParamountChannel
@@ -2671,8 +2681,6 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4607.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4606.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[ES] NEOX"	group-title="•●★ Spania ★●•"	,	[ES] NEOX
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4571.ts
-#EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[ES] NICK JR"	group-title="•●★ 01_Kids ★●•"	,	[ES] NICK JR
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4616.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[ES] NICKELODEON HD"	group-title="•●★ Spania ★●•"	,	[ES] NICKELODEON HD
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4617.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[ES] NOVA"	group-title="•●★ Spania ★●•"	,	[ES] NOVA
@@ -2757,6 +2765,8 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4668.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4681.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] 24 KITCHEN"	group-title="•●★ Portugalia ★●•"	,	[PT] 24 KITCHEN
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1713.ts
+#EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] NATIONAL GEOGRAPHIC WILD"	group-title="•●★ Portugalia ★●•"	,	[PT] NATIONAL GEOGRAPHIC WILD
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1793.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] AFRO MUSIC"	group-title="•●★ Portugalia ★●•"	,	[PT] AFRO MUSIC
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1779.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] AMC HD"	group-title="•●★ Portugalia ★●•"	,	[PT] AMC HD
@@ -2827,10 +2837,6 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1753.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1774.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] NATIONAL GEOGRAPHIC HD"	group-title="•●★ Portugalia ★●•"	,	[PT] NATIONAL GEOGRAPHIC HD
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1794.ts
-#EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] NATIONAL GEOGRAPHIC WILD"	group-title="•●★ Portugalia ★●•"	,	[PT] NATIONAL GEOGRAPHIC WILD
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1793.ts
-#EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] NICK JUNIOR"	group-title="•●★ 01_Kids ★●•"	,	[PT] NICK JUNIOR
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1786.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] NICKELODEAN"	group-title="•●★ Portugalia ★●•"	,	[PT] NICKELODEAN
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/1781.ts
 #EXTINF:-1	,	tvg-id="EPG N/A"	tvg-logo="Logo N/A"	tvg-name="[PT] NOS Studios HD"	group-title="•●★ Portugalia ★●•"	,	[PT] NOS Studios HD
@@ -2997,12 +3003,6 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4341.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4281.ts
 #EXTINF:-1	,	tvg-ID=""	tvg-logo=""	tvg-name="[UK] NICK TOONS"	group-title="•●★ United Kingdom ★●•"	,	[UK] NICK TOONS
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4290.ts
-#EXTINF:-1	,	tvg-ID=""	tvg-logo=""	tvg-name="[UK] NICK JUNIOR"	group-title="•●★ 01_Kids ★●•"	,	[UK] NICK JUNIOR
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4291.ts
-#EXTINF:-1	,	tvg-ID=""	tvg-logo=""	tvg-name="[UK] NICK JR TOO"	group-title="•●★ 01_Kids ★●•"	,	[UK] NICK JR TOO
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4292.ts
-#EXTINF:-1	,	tvg-ID=""	tvg-logo=""	tvg-name="[UK] NICK"	group-title="•●★ 01_Kids ★●•"	,	[UK] NICK
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4294.ts
 #EXTINF:-1	,	tvg-ID=""	tvg-logo=""	tvg-name="[UK] NAT GEO WILD"	group-title="•●★ United Kingdom ★●•"	,	[UK] NAT GEO WILD
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4359.ts
 #EXTINF:-1	,	tvg-ID=""	tvg-logo=""	tvg-name="[UK] NAT GEO"	group-title="•●★ United Kingdom ★●•"	,	[UK] NAT GEO
