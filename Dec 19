@@ -1,4 +1,4 @@
-#EXTM3U										
+#EXTM3U
 #EXTINF:-1,tvg-id="NickJr.ro"	tvg-logo="http://static.iptv-epg.com/ro/NickJr.ro.png"	tvg-name="Nick Jr."	group-title="•●★ 01_Kids ★●•",Nick Jr.
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/64.ts
 #EXTINF:-1,tvg-id="DisneyJunior.ro"	tvg-logo="http://static.iptv-epg.com/ro/DisneyJunior.ro.png"	tvg-name="DISNEY JUNIOR"	group-title="•●★ 01_Kids ★●•",DISNEY JUNIOR
@@ -95,6 +95,8 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/305.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/308.ts
 #EXTINF:-1,tvg-id=""	tvg-logo=""	tvg-name="HIT MUSIC"	group-title="•●★ Muzica ★●•",HIT MUSIC
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/330.ts
+#EXTINF:-1,tvg-id=""	tvg-logo=""	tvg-name="OneBY UHD 4K"	group-title="•●★ Muzica ★●•",OneBY UHD 4K
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/320.ts
 #EXTINF:-1,tvg-id=""	tvg-logo=""	tvg-name="[USA] CMT HD"	group-title="•●★ Muzica ★●•",[USA] CMT HD
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6532.ts
 #EXTINF:-1,tvg-id=""	tvg-logo=""	tvg-name="Trace Africa HD"	group-title="•●★ Muzica ★●•",Trace Africa HD
@@ -573,6 +575,8 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6341.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6342.ts
 #EXTINF:-1,tvg-id="ProTV.ro"	tvg-logo="http://static.iptv-epg.com/ro/ProTV.ro.png"	tvg-name="PRO TV"	group-title="•●★ Generale ★●•",PRO TV HD
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/17.ts
+#EXTINF:-1,tvg-id="PROTV.ro"	tvg-logo=""	tvg-name="PRO TV (QUHD)"	group-title="•●★ Generale ★●•",PRO TV
+http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/18.ts
 #EXTINF:-1,tvg-id="TVR1.ro"	tvg-logo="http://iptv.live/images/logo/channel/crops/f1c548f1c572d862976d546e7ae28922.png"	tvg-name="TVR 1"	group-title="•●★ Generale ★●•",TVR 1 HD
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5559.ts
 #EXTINF:-1,tvg-id="TVR2.ro"	tvg-logo="http://iptv.live/images/logo/channel/crops/c9267ae8d3830ad8b73e6cef189a61bb.png"	tvg-name="TVR 2"	group-title="•●★ Generale ★●•",TVR 2 HD
@@ -633,10 +637,6 @@ http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3.ts
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/394.ts
 #EXTINF:-1,tvg-id="KanalD.ro"	tvg-logo=""	tvg-name="KANAL D (QUHD)"	group-title="•●★ Generale ★●•",KANAL D
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/32.ts
-#EXTINF:-1,tvg-id=""	tvg-logo=""	tvg-name="OneBY UHD 4K"	group-title="•●★ Muzica ★●•",OneBY UHD 4K
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/320.ts
-#EXTINF:-1,tvg-id="PROTV.ro"	tvg-logo=""	tvg-name="PRO TV (QUHD)"	group-title="•●★ Generale ★●•",PRO TV
-http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/18.ts
 #EXTINF:-1,tvg-id=""	tvg-logo=""	tvg-name="[USA] A & E FHD"	group-title="•●★ U.S.A. ★●•",[USA] A & E FHD
 http://live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6566.ts
 #EXTINF:-1,tvg-id=""	tvg-logo=""	tvg-name="[USA] ABC NEWS HD"	group-title="•●★ U.S.A. ★●•",[USA] ABC NEWS HD
@@ -1637,6 +1637,98 @@ http://Live.astvpro.com:8880/movie/u7Uy6rfk9X/mw0B94r7fJ/7444.mp4
 http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6984.ts
 #EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Nat Geo People"	group-title="•●★ Documentare ★●•",Nat Geo People
 http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6983.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Discovery Channel"	group-title="•●★ Documentare ★●•",Discovery Channel
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/203.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Discovery Channel HD"	group-title="•●★ Documentare ★●•",Discovery Channel HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/204.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Discovery  HD Showcase"	group-title="•●★ Documentare ★●•",Discovery  HD Showcase
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6972.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="ID Investigation Discovery"	group-title="•●★ Documentare ★●•",ID Investigation Discovery
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/208.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Animal Planet HD"	group-title="•●★ Documentare ★●•",Animal Planet HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/225.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="BBC Earth"	group-title="•●★ Documentare ★●•",BBC Earth
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/212.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="BBC Earth HD"	group-title="•●★ Documentare ★●•",BBC Earth HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/213.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="DocuBox"	group-title="•●★ Documentare ★●•",DocuBox
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/214.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="DocuBox HD"	group-title="•●★ Documentare ★●•",DocuBox HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/215.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Nat Geo Wild HD"	group-title="•●★ Documentare ★●•",Nat Geo Wild HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/223.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="NAT GEO WILD"	group-title="•●★ Documentare ★●•",NAT GEO WILD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/222.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Nat Geo HD"	group-title="•●★ Documentare ★●•",Nat Geo HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/221.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="NAT GEO"	group-title="•●★ Documentare ★●•",NAT GEO
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/220.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="HISTORY CHANNEL"	group-title="•●★ Documentare ★●•",HISTORY CHANNEL
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/226.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="History HD"	group-title="•●★ Documentare ★●•",History HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/227.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="ARCADIA WORLD HD"	group-title="•●★ Documentare ★●•",ARCADIA WORLD HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/393.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="HGTV"	group-title="•●★ Documentare ★●•",HGTV
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5988.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="HGTV HD"	group-title="•●★ Documentare ★●•",HGTV HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5989.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="TLC"	group-title="•●★ Documentare ★●•",TLC
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/238.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="The Fishing and Hunting Channel HD"	group-title="•●★ Documentare ★●•",The Fishing and Hunting Channel HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/237.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="The Fishing and Hunting Channel"	group-title="•●★ Documentare ★●•",The Fishing and Hunting Channel
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/236.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="TV PAPRIKA"	group-title="•●★ Documentare ★●•",TV PAPRIKA
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/248.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Travel MIX HD"	group-title="•●★ Documentare ★●•",Travel MIX HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/246.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Travel Channel HD"	group-title="•●★ Documentare ★●•",Travel Channel HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/217.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Travel Channel"	group-title="•●★ Documentare ★●•",Travel Channel
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/216.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Viasat Nature HD"	group-title="•●★ Documentare ★●•",Viasat Nature HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/218.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="VIASAT NATURE"	group-title="•●★ Documentare ★●•",VIASAT NATURE
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/245.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="VIASAT HISTORY HD"	group-title="•●★ Documentare ★●•",VIASAT HISTORY HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/219.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="VIASAT HISTORY"	group-title="•●★ Documentare ★●•",VIASAT HISTORY
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/244.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Viasat Explore"	group-title="•●★ Documentare ★●•",Viasat Explore
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/243.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Viasat Explorer HD"	group-title="•●★ Documentare ★●•",Viasat Explorer HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/392.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Food Network"	group-title="•●★ Documentare ★●•",Food Network
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/242.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Food Network  HD"	group-title="•●★ Documentare ★●•",Food Network  HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5987.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Fine Living"	group-title="•●★ Documentare ★●•",Fine Living
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/247.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Fashion TV"	group-title="•●★ Documentare ★●•",Fashion TV
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/250.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="E! Entertainment HD"	group-title="•●★ Documentare ★●•",E! Entertainment HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/235.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="E! Entertainment"	group-title="•●★ Documentare ★●•",E! Entertainment
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/234.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Digi World HD"	group-title="•●★ Documentare ★●•",Digi World HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/233.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="DIGI WORLD"	group-title="•●★ Documentare ★●•",DIGI WORLD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/232.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Digi Life HD"	group-title="•●★ Documentare ★●•",Digi Life HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/231.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="DIGI LIFE"	group-title="•●★ Documentare ★●•",DIGI LIFE
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/230.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Digi Animal World HD"	group-title="•●★ Documentare ★●•",Digi Animal World HD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/229.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="DIGI ANIMAL WORLD"	group-title="•●★ Documentare ★●•",DIGI ANIMAL WORLD
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/228.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="DAVINCI LEARNING"	group-title="•●★ Documentare ★●•",DAVINCI LEARNING
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/241.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="Crime & Investigation Network"	group-title="•●★ Documentare ★●•",Crime & Investigation Network
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/240.ts
+#EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="CBS Reality"	group-title="•●★ Documentare ★●•",CBS Reality
+http://Live.astvpro.com:8880/live/u7Uy6rfk9X/mw0B94r7fJ/239.ts
 #EXTINF:-1,tvg-ID=""	tvg-logo="https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_SY1000_SX675_AL_.jpg"	tvg-name="After"	group-title="•●★ Drama ★●•",After
 http://Live.astvpro.com:8880/movie/u7Uy6rfk9X/mw0B94r7fJ/7169.mkv
 #EXTINF:-1,tvg-ID=""	tvg-logo=""	tvg-name="All Is True"	group-title="•●★ Drama ★●•",All Is True
