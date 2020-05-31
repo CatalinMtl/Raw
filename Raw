@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U          
 #EXTINF:-1,tvg-id="NickJr.ro" tvg-logo="http://static.iptv-epg.com/ro/NickJr.ro.png" tvg-name="Nick Jr." group-title="•●★ 01_Kids ★●•",Nick Jr.
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/64.ts
 #EXTINF:-1,tvg-id="DisneyJunior.ro" tvg-logo="http://static.iptv-epg.com/ro/DisneyJunior.ro.png" tvg-name="DISNEY JUNIOR" group-title="•●★ 01_Kids ★●•",DISNEY JUNIOR
@@ -395,6 +395,8 @@ http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/325.ts
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/324.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Hora TV" group-title="•●★ Muzica ★●•",Hora TV
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/323.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="LID-AS TV" group-title="•●★ Muzica ★●•",LID-AS TV
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/106.ts
 #EXTINF:-1,tvg-id="Favorit.ro" tvg-logo="http://static.iptv-epg.com/ro/Favorit.ro.png" tvg-name="FAVORIT TV" group-title="•●★ Muzica ★●•",FAVORIT TV
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/322.ts
 #EXTINF:-1,tvg-id="Etno.ro" tvg-logo="http://static.iptv-epg.com/ro/Etno.ro.png" tvg-name="ETNO TV" group-title="•●★ Muzica ★●•",ETNO TV
@@ -1307,8 +1309,6 @@ http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/99.ts
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/100.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="LID-AS Bolywood" group-title="•●★ Filme ★●•",LID-AS Bolywood HD
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/104.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="LID-AS TV" group-title="•●★ Muzica ★●•",LID-AS TV
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/106.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="LID-AS Clasic Film" group-title="•●★ Filme ★●•",LID-AS Clasic Film HD
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/109.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="LID-AS SF Film" group-title="•●★ Filme ★●•",LID-AS SF Film HD
@@ -1337,6 +1337,8 @@ http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5196.ts
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3776.ts
 #EXTINF:-1,tvg-id="HBOMax.ro" tvg-logo="https://www.digitalsave.co.uk/images/thumbnails/890/304/blog/7/HBOMaxbanner.png" tvg-name="HBO Max" group-title="•●★ Filme ★●•",HBO Max HD
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/2660.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HBO PLUS HD " group-title="•●★ Filme ★●•",HBO PLUS HD 
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5195.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="RO AS HD ACTION" group-title="•●★ Filme ★●•",RO AS HD ACTION
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/2415.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="AS RO HD 4k" group-title="•●★ Filme ★●•",AS RO HD 4k
@@ -1351,16 +1353,14 @@ http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4083.ts
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5193.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="AS RO HD Indian" group-title="•●★ Filme ★●•",AS RO HD Indian
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5194.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HBO PLUS HD " group-title="•●★ Filme ★●•",HBO PLUS HD 
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5195.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="AS RO HD HORROR" group-title="•●★ Filme ★●•",AS RO HD HORROR
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6677.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="AS RO HD FILM *2020" group-title="•●★ Filme ★●•",AS RO HD FILM *2020
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6678.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SKYNET Premiera 4K" group-title="•●★ Filme ★●•",SKYNET  Romantic
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6034.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Skynet Desene Animate" group-title="•●★ Filme ★●•",Skynet Desene Animate
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6041.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="AS RO HD FILM *2020" group-title="•●★ Filme ★●•",AS RO HD FILM *2020
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6678.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SKYNET Best" group-title="•●★ Filme ★●•",SKYNET Best
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6043.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Skynet Actiune" group-title="•●★ Filme ★●•",Skynet Actiune
@@ -1383,6 +1383,30 @@ http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6052.ts
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6692.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CINEMOVI" group-title="•●★ Filme ★●•",CINEMOVI
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6024.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Premiere" group-title="•●★ Filme ★●•",HDNet Premiere
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8721.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Action" group-title="•●★ Filme ★●•",HDNet Action
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8722.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Thriller" group-title="•●★ Filme ★●•",HDNet Thriller
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8723.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Comedy" group-title="•●★ Filme ★●•",HDNet Comedy
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8724.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Sci-Fi" group-title="•●★ Filme ★●•",HDNet Sci-Fi
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8725.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Horror" group-title="•●★ Filme ★●•",HDNet Horror
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8726.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Bollywood" group-title="•●★ Filme ★●•",HDNet Bollywood
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8727.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet LasFierbinti" group-title="•●★ Filme ★●•",HDNet LasFierbinti
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8728.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNetRO iUmor" group-title="•●★ Filme ★●•",HDNetRO iUmor
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8729.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet JeanClaudeVanDamme" group-title="•●★ Filme ★●•",HDNet JeanClaudeVanDamme
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8730.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet ArnoldSchwarzenegger" group-title="•●★ Filme ★●•",HDNet ArnoldSchwarzenegger
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8731.ts
+#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Kids" group-title="•●★ Filme ★●•",HDNet Kids
+http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8732.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CINEMOVIES-File De Colectie" group-title="•●★ Filme ★●•",CINEMOVIES-File De Colectie
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6027.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CINEMOVIES Colectie Romania" group-title="•●★ Filme ★●•",CINEMOVIES Colectie Romania
@@ -1453,30 +1477,6 @@ http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/201.ts
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/202.ts
 #EXTINF:-1,tvg-id="TDC.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/89.png?28166" tvg-name="TDC" group-title="•●★ Filme ★●•",TDC
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6982.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Premiere" group-title="•●★ Filme ★●•",HDNet Premiere
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8721.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Action" group-title="•●★ Filme ★●•",HDNet Action
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8722.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Thriller" group-title="•●★ Filme ★●•",HDNet Thriller
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8723.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Comedy" group-title="•●★ Filme ★●•",HDNet Comedy
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8724.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Sci-Fi" group-title="•●★ Filme ★●•",HDNet Sci-Fi
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8725.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Horror" group-title="•●★ Filme ★●•",HDNet Horror
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8726.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Bollywood" group-title="•●★ Filme ★●•",HDNet Bollywood
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8727.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet LasFierbinti" group-title="•●★ Filme ★●•",HDNet LasFierbinti
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8728.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNetRO iUmor" group-title="•●★ Filme ★●•",HDNetRO iUmor
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8729.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet JeanClaudeVanDamme" group-title="•●★ Filme ★●•",HDNet JeanClaudeVanDamme
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8730.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet ArnoldSchwarzenegger" group-title="•●★ Filme ★●•",HDNet ArnoldSchwarzenegger
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8731.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HDNet Kids" group-title="•●★ Filme ★●•",HDNet Kids
-http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8732.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Cinemaraton" group-title="•●★ Filme ★●•",Cinemaraton
 http://ltd.gbx.name:8880/live/u7Uy6rfk9X/mw0B94r7fJ/179.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="https://site-311837.mozfiles.com/files/311837/comedyest.png" tvg-name="ComedyEst" group-title="•●★ Filme ★●•",ComedyEst
