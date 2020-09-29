@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NickJr.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/61.png?92388"  tvg-name="Nick Jr." group-title="01_Kids",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/61.png?92388" tvg-name="Nick Jr." group-title="01_Kids",Nick Jr.
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/64.ts
-#EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/54.png?10859"  tvg-name="DISNEY JUNIOR" group-title="01_Kids",DISNEY JUNIOR
+#EXTINF:-1 tvg-id="DisneyJunior.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/54.png?10859" tvg-name="DISNEY JUNIOR" group-title="01_Kids",DISNEY JUNIOR
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/58.ts
-#EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/55.png?66881"  tvg-name="DISNEY CHANNEL" group-title="01_Kids",DISNEY CHANNEL
+#EXTINF:-1 tvg-id="DisneyChannel.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/55.png?66881" tvg-name="DISNEY CHANNEL" group-title="01_Kids",DISNEY CHANNEL
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/57.ts
 #EXTINF:-1 tvg-id="DisneyJunior.de" tvg-logo="" tvg-name="Disney Jr DE" group-title="01_Kids",[GE] Disney Jr DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11288.ts
@@ -13,19 +13,19 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11295.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/14074.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Magura Kids" group-title="01_Kids",Magura Kids
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16289.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/56.png?80288"  tvg-name="CARTOON NETWORK" group-title="01_Kids",CARTOON NETWORK
+#EXTINF:-1 tvg-id="CartoonNetwork.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/56.png?80288" tvg-name="CARTOON NETWORK" group-title="01_Kids",CARTOON NETWORK
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/59.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/65.png?24764" tvg-name="Boomerang RO" group-title="01_Kids",Boomerang RO
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/60.ts
-#EXTINF:-1 tvg-id="Minimax.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/58.png?24793"  tvg-name="MINIMAX" group-title="01_Kids",MINIMAX
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/58.png?24793" tvg-name="MINIMAX" group-title="01_Kids",MINIMAX
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/62.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/59.png?20831" tvg-name="Nicktoons Romania" group-title="01_Kids",Nicktoons Romania
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/63.ts
-#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/60.png?49052"  tvg-name="NICKELODEON" group-title="01_Kids",NICKELODEON
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/60.png?49052" tvg-name="NICKELODEON" group-title="01_Kids",NICKELODEON
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/65.ts
-#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/66.png?76243"  tvg-name="Nickelodeon HD" group-title="01_Kids",Nickelodeon HD
+#EXTINF:-1 tvg-id="Nickelodeon.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/66.png?76243" tvg-name="Nickelodeon HD" group-title="01_Kids",Nickelodeon HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/66.ts
-#EXTINF:-1 tvg-id="JimJam.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/62.png?70840"  tvg-name="JimJam" group-title="01_Kids",JimJam
+#EXTINF:-1 tvg-id="JimJam.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/62.png?70840" tvg-name="JimJam" group-title="01_Kids",JimJam
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/67.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/63.png?30859" tvg-name="DUCK TV" group-title="01_Kids",DUCK TV
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/68.ts
@@ -73,297 +73,297 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/10021.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/10022.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[USA] NICK HD" group-title="01_Kids",[USA] NICK HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/10023.ts
-#EXTINF:-1 tvg-id="Sat1.de" tvg-logo="" tvg-name="Sat 1 HD DE" group-title="Germania"  [GE] Sat 1 HD DE
+#EXTINF:-1 tvg-id="Sat1.de" tvg-logo="" tvg-name="Sat 1 HD DE" group-title="Germania" ,[GE] Sat 1 HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11237.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sat 1  HD" group-title="Germania"  [GE]Sat 1  HD
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sat 1  HD" group-title="Germania" ,[GE]Sat 1  HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11322.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sat 1 Gold" group-title="Germania"  [GE]Sat 1 Gold
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sat 1 Gold" group-title="Germania" ,[GE]Sat 1 Gold
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11238.ts
-#EXTINF:-1 tvg-id="Kabel1.de" tvg-logo="" tvg-name="Kabel Eins HD DE" group-title="Germania"  [GE] Kabel Eins HD DE
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-logo="" tvg-name="Kabel Eins HD DE" group-title="Germania" ,[GE] Kabel Eins HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11240.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Kabel 1 Classics" group-title="Germania"  [GE]Kabel 1 Classics
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Kabel 1 Classics" group-title="Germania" ,[GE]Kabel 1 Classics
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11241.ts
-#EXTINF:-1 tvg-id="Pro7.de" tvg-logo="" tvg-name="ProSieben HD DE" group-title="Germania"  [GE] ProSieben HD DE
+#EXTINF:-1 tvg-id="Pro7.de" tvg-logo="" tvg-name="ProSieben HD DE" group-title="Germania" ,[GE] ProSieben HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11235.ts
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-logo="" tvg-name="ProSieben Maxx HD DE" group-title="Germania"  [GE] ProSieben Maxx HD DE
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-logo="" tvg-name="ProSieben Maxx HD DE" group-title="Germania" ,[GE] ProSieben Maxx HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11236.ts
-#EXTINF:-1 tvg-id="RTL.de" tvg-logo="" tvg-name="RTL HD DE" group-title="Germania"  [GE] RTL HD DE
+#EXTINF:-1 tvg-id="RTL.de" tvg-logo="" tvg-name="RTL HD DE" group-title="Germania" ,[GE] RTL HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11231.ts
-#EXTINF:-1 tvg-id="RTL2.de" tvg-logo="" tvg-name="RTL 2 HD DE" group-title="Germania"  [GE] RTL 2 HD DE
+#EXTINF:-1 tvg-id="RTL2.de" tvg-logo="" tvg-name="RTL 2 HD DE" group-title="Germania" ,[GE] RTL 2 HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11232.ts
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-logo="" tvg-name="Super RTL HD DE" group-title="Germania"  [GE] Super RTL HD DE
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-logo="" tvg-name="Super RTL HD DE" group-title="Germania" ,[GE] Super RTL HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11291.ts
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-logo="" tvg-name="RTL Nitro HD DE" group-title="Germania"  [GE] RTL Nitro HD DE
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-logo="" tvg-name="RTL Nitro HD DE" group-title="Germania" ,[GE] RTL Nitro HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11233.ts
-#EXTINF:-1 tvg-id="ORF1.at" tvg-logo="" tvg-name="ORF 1 HD DE" group-title="Germania"  [GE] ORF 1 HD DE
+#EXTINF:-1 tvg-id="ORF1.at" tvg-logo="" tvg-name="ORF 1 HD DE" group-title="Germania" ,[GE] ORF 1 HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11325.ts
-#EXTINF:-1 tvg-id="ORF2.at" tvg-logo="" tvg-name="ORF 2 HD DE" group-title="Germania"  [GE] ORF 2 HD DE
+#EXTINF:-1 tvg-id="ORF2.at" tvg-logo="" tvg-name="ORF 2 HD DE" group-title="Germania" ,[GE] ORF 2 HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11326.ts
-#EXTINF:-1 tvg-id="sixx.de" tvg-logo="" tvg-name="SIXX HD DE" group-title="Germania"  [GE] SIXX HD DE
+#EXTINF:-1 tvg-id="sixx.de" tvg-logo="" tvg-name="SIXX HD DE" group-title="Germania" ,[GE] SIXX HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11234.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Phoenix" group-title="Germania"  [GE]Phoenix
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Phoenix" group-title="Germania" ,[GE]Phoenix
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11239.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Tele 5" group-title="Germania"  [GE]Tele 5
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Tele 5" group-title="Germania" ,[GE]Tele 5
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11242.ts
-#EXTINF:-1 tvg-id="Anixe.de" tvg-logo="" tvg-name="Anixe HD DE" group-title="Germania"  [GE] Anixe HD DE
+#EXTINF:-1 tvg-id="Anixe.de" tvg-logo="" tvg-name="Anixe HD DE" group-title="Germania" ,[GE] Anixe HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11243.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="DMAX" group-title="Germania"  [GE]DMAX
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="DMAX" group-title="Germania" ,[GE]DMAX
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11244.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="ONE" group-title="Germania"  [GE]ONE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="ONE" group-title="Germania" ,[GE]ONE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11245.ts
-#EXTINF:-1 tvg-id="ARD.de" tvg-logo="" tvg-name="Das Erste HD DE" group-title="Germania"  [GE] Das Erste HD DE
+#EXTINF:-1 tvg-id="ARD.de" tvg-logo="" tvg-name="Das Erste HD DE" group-title="Germania" ,[GE] Das Erste HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11227.ts
-#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="" tvg-name="ZDF HD DE" group-title="Germania"  [GE] ZDF HD DE
+#EXTINF:-1 tvg-id="ZDF.de" tvg-logo="" tvg-name="ZDF HD DE" group-title="Germania" ,[GE] ZDF HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11230.ts
-#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="" tvg-name="arte HD DE" group-title="Germania"  [GE] arte HD DE
+#EXTINF:-1 tvg-id="ARTE.de" tvg-logo="" tvg-name="arte HD DE" group-title="Germania" ,[GE] arte HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11228.ts
-#EXTINF:-1 tvg-id="3sat.at" tvg-logo="" tvg-name="3sat HD DE" group-title="Germania"  [GE] 3sat HD DE
+#EXTINF:-1 tvg-id="3sat.at" tvg-logo="" tvg-name="3sat HD DE" group-title="Germania" ,[GE] 3sat HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11229.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Kabel 1 Doku" group-title="Germania"  [GE]Kabel 1 Doku
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Kabel 1 Doku" group-title="Germania" ,[GE]Kabel 1 Doku
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11320.ts
-#EXTINF:-1 tvg-id="AlAan.ae" tvg-logo="" tvg-name="A&E DE" group-title="Germania"  [GE] A&E DE
+#EXTINF:-1 tvg-id="AlAan.ae" tvg-logo="" tvg-name="A&E DE" group-title="Germania" ,[GE] A&E DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11321.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="ZDF info" group-title="Germania"  [GE]ZDF info
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="ZDF info" group-title="Germania" ,[GE]ZDF info
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11323.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Eurosport 1 HD DE" group-title="Germania"  [GE] Eurosport 1 HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Eurosport 1 HD DE" group-title="Germania" ,[GE] Eurosport 1 HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11271.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Eurosport 2 HD DE" group-title="Germania"  [GE] Eurosport 2 HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Eurosport 2 HD DE" group-title="Germania" ,[GE] Eurosport 2 HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11272.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Eurosport 2 Xtra HD DE" group-title="Germania"  [GE] Eurosport 2 Xtra HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Eurosport 2 Xtra HD DE" group-title="Germania" ,[GE] Eurosport 2 Xtra HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11273.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sportdigital" group-title="Germania"  [GE]Sportdigital
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sportdigital" group-title="Germania" ,[GE]Sportdigital
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11274.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sport 1 HD DE" group-title="Germania"  [GE] Sport 1 HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sport 1 HD DE" group-title="Germania" ,[GE] Sport 1 HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11275.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Motorvision TV DE" group-title="Germania"  [GE] Motorvision TV DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Motorvision TV DE" group-title="Germania" ,[GE] Motorvision TV DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11276.ts
-#EXTINF:-1 tvg-id="Classica.de" tvg-logo="" tvg-name="Classica DE" group-title="Germania"  [GE] Classica DE
+#EXTINF:-1 tvg-id="Classica.de" tvg-logo="" tvg-name="Classica DE" group-title="Germania" ,[GE] Classica DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11277.ts
-#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-logo="" tvg-name="Discovery HD DE" group-title="Germania"  [GE] Discovery HD DE
+#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-logo="" tvg-name="Discovery HD DE" group-title="Germania" ,[GE] Discovery HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11278.ts
-#EXTINF:-1 tvg-id="EEntertainment.th" tvg-logo="" tvg-name="E! Entertainm HD DE" group-title="Germania"  [GE] E! Entertainm HD DE
+#EXTINF:-1 tvg-id="EEntertainment.th" tvg-logo="" tvg-name="E! Entertainm HD DE" group-title="Germania" ,[GE] E! Entertainm HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11279.ts
-#EXTINF:-1 tvg-id="History.de" tvg-logo="" tvg-name="History HD DE" group-title="Germania"  [GE] History HD DE
+#EXTINF:-1 tvg-id="History.de" tvg-logo="" tvg-name="History HD DE" group-title="Germania" ,[GE] History HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11280.ts
-#EXTINF:-1 tvg-id="NatGeoHD.de" tvg-logo="" tvg-name="National Geographic HD DE" group-title="Germania"  [GE] National Geographic HD DE
+#EXTINF:-1 tvg-id="NatGeoHD.de" tvg-logo="" tvg-name="National Geographic HD DE" group-title="Germania" ,[GE] National Geographic HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11281.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Animal Planet" group-title="Germania"  [GE] Animal Planet
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Animal Planet" group-title="Germania" ,[GE] Animal Planet
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11282.ts
-#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-logo="" tvg-name="Nat Geo Wild HD DE" group-title="Germania"  [GE] Nat Geo Wild HD DE
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-logo="" tvg-name="Nat Geo Wild HD DE" group-title="Germania" ,[GE] Nat Geo Wild HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11283.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Planet" group-title="Germania"  [GE]Planet
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Planet" group-title="Germania" ,[GE]Planet
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11284.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Crime Investigation" group-title="Germania"  [GE]Crime Investigation
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Crime Investigation" group-title="Germania" ,[GE]Crime Investigation
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11285.ts
-#EXTINF:-1 tvg-id="Kika.de" tvg-logo="" tvg-name="KIKA HD DE" group-title="Germania"  [GE] KIKA HD DE
+#EXTINF:-1 tvg-id="Kika.de" tvg-logo="" tvg-name="KIKA HD DE" group-title="Germania" ,[GE] KIKA HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11286.ts
-#EXTINF:-1 tvg-id="DisneyXD.de" tvg-logo="" tvg-name="Disney XD DE" group-title="Germania"  [GE] Disney XD DE
+#EXTINF:-1 tvg-id="DisneyXD.de" tvg-logo="" tvg-name="Disney XD DE" group-title="Germania" ,[GE] Disney XD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11287.ts
-#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-logo="" tvg-name="Disney Cinemagic HD DE" group-title="Germania"  [GE] Disney Cinemagic HD DE
+#EXTINF:-1 tvg-id="DisneyCinemagic.de" tvg-logo="" tvg-name="Disney Cinemagic HD DE" group-title="Germania" ,[GE] Disney Cinemagic HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11289.ts
-#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-logo="" tvg-name="Disney Channel HD DE" group-title="Germania"  [GE] Disney Channel HD DE
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-logo="" tvg-name="Disney Channel HD DE" group-title="Germania" ,[GE] Disney Channel HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11290.ts
-#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-logo="" tvg-name="Cartoon Network DE" group-title="Germania"  [GE] Cartoon Network DE
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-logo="" tvg-name="Cartoon Network DE" group-title="Germania" ,[GE] Cartoon Network DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11292.ts
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="" tvg-name="Nickelodeon HD DE" group-title="Germania"  [GE] Nickelodeon HD DE
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-logo="" tvg-name="Nickelodeon HD DE" group-title="Germania" ,[GE] Nickelodeon HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11293.ts
-#EXTINF:-1 tvg-id="Boomerang.de" tvg-logo="" tvg-name="Boomerang DE" group-title="Germania"  [GE] Boomerang DE
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-logo="" tvg-name="Boomerang DE" group-title="Germania" ,[GE] Boomerang DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11294.ts
-#EXTINF:-1 tvg-id="TNTFilm.de" tvg-logo="" tvg-name="TNT Film HD DE" group-title="Germania"  [GE] TNT Film HD DE
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-logo="" tvg-name="TNT Film HD DE" group-title="Germania" ,[GE] TNT Film HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11309.ts
-#EXTINF:-1 tvg-id="TNTComedy.de" tvg-logo="" tvg-name="TNT Comedy HD DE" group-title="Germania"  [GE] TNT Comedy HD DE
+#EXTINF:-1 tvg-id="TNTComedy.de" tvg-logo="" tvg-name="TNT Comedy HD DE" group-title="Germania" ,[GE] TNT Comedy HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11310.ts
-#EXTINF:-1 tvg-id="Syfy.de" tvg-logo="" tvg-name="Syfy HD DE" group-title="Germania"  [GE] Syfy HD DE
+#EXTINF:-1 tvg-id="Syfy.de" tvg-logo="" tvg-name="Syfy HD DE" group-title="Germania" ,[GE] Syfy HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11311.ts
-#EXTINF:-1 tvg-id="TNTSerie.de" tvg-logo="" tvg-name="TNT Serie HD DE" group-title="Germania"  [GE] TNT Serie HD DE
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-logo="" tvg-name="TNT Serie HD DE" group-title="Germania" ,[GE] TNT Serie HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11312.ts
-#EXTINF:-1 tvg-id="Fox.de" tvg-logo="" tvg-name="FOX HD DE" group-title="Germania"  [GE] FOX HD DE
+#EXTINF:-1 tvg-id="Fox.de" tvg-logo="" tvg-name="FOX HD DE" group-title="Germania" ,[GE] FOX HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11313.ts
-#EXTINF:-1 tvg-id="13thStreet.de" tvg-logo="" tvg-name="13th Street HD DE" group-title="Germania"  [GE] 13th Street HD DE
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-logo="" tvg-name="13th Street HD DE" group-title="Germania" ,[GE] 13th Street HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11314.ts
-#EXTINF:-1 tvg-id="Vox.de" tvg-logo="" tvg-name="VOX HD DE" group-title="Germania"  [GE] VOX HD DE
+#EXTINF:-1 tvg-id="Vox.de" tvg-logo="" tvg-name="VOX HD DE" group-title="Germania" ,[GE] VOX HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11315.ts
-#EXTINF:-1 tvg-id="Kinowelt.de" tvg-logo="" tvg-name="Kinowelt TV DE" group-title="Germania"  [GE] Kinowelt TV DE
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-logo="" tvg-name="Kinowelt TV DE" group-title="Germania" ,[GE] Kinowelt TV DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11316.ts
-#EXTINF:-1 tvg-id="RTLCrime.de" tvg-logo="" tvg-name="RTL Crime DE" group-title="Germania"  [GE] RTL Crime DE
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-logo="" tvg-name="RTL Crime DE" group-title="Germania" ,[GE] RTL Crime DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11317.ts
-#EXTINF:-1 tvg-id="Romance.de" tvg-logo="" tvg-name="Romance TV DE" group-title="Germania"  [GE] Romance TV DE
+#EXTINF:-1 tvg-id="Romance.de" tvg-logo="" tvg-name="Romance TV DE" group-title="Germania" ,[GE] Romance TV DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11318.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="VIVA Comedy DE" group-title="Germania"  [GE] VIVA Comedy DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="VIVA Comedy DE" group-title="Germania" ,[GE] VIVA Comedy DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11319.ts
-#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-logo="" tvg-name="Spiegel Geschichte HD DE" group-title="Germania"  [GE] Spiegel Geschichte HD DE
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-logo="" tvg-name="Spiegel Geschichte HD DE" group-title="Germania" ,[GE] Spiegel Geschichte HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11324.ts
-#EXTINF:-1 tvg-id="ndr.de" tvg-logo="" tvg-name="NDR HD DE" group-title="Germania"  [GE] NDR HD DE
+#EXTINF:-1 tvg-id="ndr.de" tvg-logo="" tvg-name="NDR HD DE" group-title="Germania" ,[GE] NDR HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11327.ts
-#EXTINF:-1 tvg-id="AXN.de" tvg-logo="" tvg-name="AXN HD DE" group-title="Germania"  [GE] AXN HD DE
+#EXTINF:-1 tvg-id="AXN.de" tvg-logo="" tvg-name="AXN HD DE" group-title="Germania" ,[GE] AXN HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11328.ts
-#EXTINF:-1 tvg-id="HR.de" tvg-logo="" tvg-name="HR HD DE" group-title="Germania"  [GE] HR HD DE
+#EXTINF:-1 tvg-id="HR.de" tvg-logo="" tvg-name="HR HD DE" group-title="Germania" ,[GE] HR HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11329.ts
-#EXTINF:-1 tvg-id="Universal.de" tvg-logo="" tvg-name="Universal TV HD DE" group-title="Germania"  [GE] Universal TV HD DE
+#EXTINF:-1 tvg-id="Universal.de" tvg-logo="" tvg-name="Universal TV HD DE" group-title="Germania" ,[GE] Universal TV HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11330.ts
-#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-logo="" tvg-name="Comedy Central HD DE" group-title="Germania"  [GE] Comedy Central HD DE
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-logo="" tvg-name="Comedy Central HD DE" group-title="Germania" ,[GE] Comedy Central HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11331.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="ATV DE" group-title="Germania"  [GE] ATV DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="ATV DE" group-title="Germania" ,[GE] ATV DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11332.ts
-#EXTINF:-1 tvg-id="ntv.de" tvg-logo="" tvg-name="N-TV HD DE" group-title="Germania"  [GE] N-TV HD DE
+#EXTINF:-1 tvg-id="ntv.de" tvg-logo="" tvg-name="N-TV HD DE" group-title="Germania" ,[GE] N-TV HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11333.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://iptv.live/images/logo/channel/crops/ddfa779eecebb1d87bc6e97888adbdc9.png" tvg-name="Euronews" group-title="Germania"  [GE]Euronews
+#EXTINF:-1 tvg-ID="" tvg-logo="http://iptv.live/images/logo/channel/crops/ddfa779eecebb1d87bc6e97888adbdc9.png" tvg-name="Euronews" group-title="Germania" ,[GE]Euronews
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11334.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="N24 HD DE" group-title="Germania"  [GE] N24 HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="N24 HD DE" group-title="Germania" ,[GE] N24 HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11335.ts
-#EXTINF:-1 tvg-id="Welt.de" tvg-logo="" tvg-name="WELT HD DE" group-title="Germania"  [GE] WELT HD DE
+#EXTINF:-1 tvg-id="Welt.de" tvg-logo="" tvg-name="WELT HD DE" group-title="Germania" ,[GE] WELT HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11336.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="SKY 1" group-title="Germania"  [GE]SKY 1
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="SKY 1" group-title="Germania" ,[GE]SKY 1
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11296.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema  1" group-title="Germania"  [GE]Sky Cinema  1
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema  1" group-title="Germania" ,[GE]Sky Cinema  1
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11297.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema  24" group-title="Germania"  [GE]Sky Cinema  24
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema  24" group-title="Germania" ,[GE]Sky Cinema  24
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11298.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky_Cinema Nostalgie DE" group-title="Germania"  [GE] Sky_Cinema Nostalgie DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky_Cinema Nostalgie DE" group-title="Germania" ,[GE] Sky_Cinema Nostalgie DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11299.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema HD DE" group-title="Germania"  [GE] Sky Cinema HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema HD DE" group-title="Germania" ,[GE] Sky Cinema HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11300.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky CINEMA Hits HD DE" group-title="Germania"  [GE] Sky CINEMA Hits HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky CINEMA Hits HD DE" group-title="Germania" ,[GE] Sky CINEMA Hits HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11301.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Family HD DE" group-title="Germania"  [GE] Sky Cinema Family HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Family HD DE" group-title="Germania" ,[GE] Sky Cinema Family HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11302.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Emotion DE" group-title="Germania"  [GE] Sky Cinema Emotion DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Emotion DE" group-title="Germania" ,[GE] Sky Cinema Emotion DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11303.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Comic Helden DE" group-title="Germania"  [GE] Sky Cinema Comic Helden DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Comic Helden DE" group-title="Germania" ,[GE] Sky Cinema Comic Helden DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11304.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Comedy DE" group-title="Germania"  [GE] Sky Cinema Comedy DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Comedy DE" group-title="Germania" ,[GE] Sky Cinema Comedy DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11305.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Action HD DE" group-title="Germania"  [GE] Sky Cinema Action HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Cinema Action HD DE" group-title="Germania" ,[GE] Sky Cinema Action HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11306.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Atlantic HD DE" group-title="Germania"  [GE] Sky Atlantic HD DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Atlantic HD DE" group-title="Germania" ,[GE] Sky Atlantic HD DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11307.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Krimi DE" group-title="Germania"  [GE] Sky Krimi DE
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="Sky Krimi DE" group-title="Germania" ,[GE] Sky Krimi DE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11308.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema KINOSAAL (GERINGE QUALITÄT)" group-title="Germania"  [GE] Eagle Cinema KINOSAAL (GERINGE QUALITÄT)
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema KINOSAAL (GERINGE QUALITÄT)" group-title="Germania" ,[GE] Eagle Cinema KINOSAAL (GERINGE QUALITÄT)
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15781.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Premiere HD" group-title="Germania"  [GE] Eagle Cinema Premiere HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Premiere HD" group-title="Germania" ,[GE] Eagle Cinema Premiere HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15782.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Aktion HD" group-title="Germania"  [GE] Eagle Cinema Aktion HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Aktion HD" group-title="Germania" ,[GE] Eagle Cinema Aktion HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15783.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Komodie HD" group-title="Germania"  [GE] Eagle Cinema Komodie HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Komodie HD" group-title="Germania" ,[GE] Eagle Cinema Komodie HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15784.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Abenteuer HD" group-title="Germania"  [GE] Eagle Cinema Abenteuer HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Abenteuer HD" group-title="Germania" ,[GE] Eagle Cinema Abenteuer HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15785.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Animation HD" group-title="Germania"  [GE] Eagle Cinema Animation HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Animation HD" group-title="Germania" ,[GE] Eagle Cinema Animation HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15786.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Thriller HD" group-title="Germania"  [GE] Eagle Cinema Thriller HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Thriller HD" group-title="Germania" ,[GE] Eagle Cinema Thriller HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15787.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Entdeckernatur 4K UHD (multilanguage)" group-title="Germania"  [GE] Eagle Entdeckernatur 4K UHD (multilanguage)
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Entdeckernatur 4K UHD (multilanguage)" group-title="Germania" ,[GE] Eagle Entdeckernatur 4K UHD (multilanguage)
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15788.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema 007 HD" group-title="Germania"  [GE] Eagle Cinema 007 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema 007 HD" group-title="Germania" ,[GE] Eagle Cinema 007 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15789.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Entdeckernatur FHD" group-title="Germania"  [GE] Eagle Entdeckernatur FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Entdeckernatur FHD" group-title="Germania" ,[GE] Eagle Entdeckernatur FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15790.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Masha und der Bär HD" group-title="Germania"  [GE] Eagle Masha und der Bär HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Masha und der Bär HD" group-title="Germania" ,[GE] Eagle Masha und der Bär HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15791.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Biografie FHD" group-title="Germania"  [GE] Eagle Cinema Biografie FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Biografie FHD" group-title="Germania" ,[GE] Eagle Cinema Biografie FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15792.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Familie FHD" group-title="Germania"  [GE] Eagle Cinema Familie FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Familie FHD" group-title="Germania" ,[GE] Eagle Cinema Familie FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15793.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Fantasie FHD" group-title="Germania"  [GE] Eagle Cinema Fantasie FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Fantasie FHD" group-title="Germania" ,[GE] Eagle Cinema Fantasie FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15794.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Romantisch HD" group-title="Germania"  [GE] Eagle Cinema Romantisch HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Romantisch HD" group-title="Germania" ,[GE] Eagle Cinema Romantisch HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15795.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Horror HD" group-title="Germania"  [GE] Eagle Cinema Horror HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Horror HD" group-title="Germania" ,[GE] Eagle Cinema Horror HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15796.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Geschichte HD" group-title="Germania"  [GE] Eagle Cinema Geschichte HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Geschichte HD" group-title="Germania" ,[GE] Eagle Cinema Geschichte HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15797.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Drama HD" group-title="Germania"  [GE] Eagle Cinema Drama HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Drama HD" group-title="Germania" ,[GE] Eagle Cinema Drama HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15798.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Sci-Fi HD" group-title="Germania"  [GE] Eagle Cinema Sci-Fi HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Sci-Fi HD" group-title="Germania" ,[GE] Eagle Cinema Sci-Fi HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15799.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Lächeln HD" group-title="Germania"  [GE] Eagle Cinema Lächeln HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Lächeln HD" group-title="Germania" ,[GE] Eagle Cinema Lächeln HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15800.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Mythologie HD" group-title="Germania"  [GE] Eagle Cinema Mythologie HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Mythologie HD" group-title="Germania" ,[GE] Eagle Cinema Mythologie HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15801.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle PJ MASKS FHD" group-title="Germania"  [GE] Eagle PJ MASKS FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle PJ MASKS FHD" group-title="Germania" ,[GE] Eagle PJ MASKS FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15802.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Peppa Wutz FHD" group-title="Germania"  [GE] Eagle Peppa Wutz FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Peppa Wutz FHD" group-title="Germania" ,[GE] Eagle Peppa Wutz FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15803.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Religion HD" group-title="Germania"  [GE] Eagle Cinema Religion HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Cinema Religion HD" group-title="Germania" ,[GE] Eagle Cinema Religion HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15804.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Bollywood HD" group-title="Germania"  [GE] Eagle Bollywood HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Eagle Bollywood HD" group-title="Germania" ,[GE] Eagle Bollywood HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15805.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 1 FHD" group-title="Germania"  [GE] Sky Select Premiere 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 1 FHD" group-title="Germania" ,[GE] Sky Select Premiere 1 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15806.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 2 FHD" group-title="Germania"  [GE] Sky Select Premiere 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 2 FHD" group-title="Germania" ,[GE] Sky Select Premiere 2 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15807.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 3 FHD" group-title="Germania"  [GE] Sky Select Premiere 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 3 FHD" group-title="Germania" ,[GE] Sky Select Premiere 3 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15808.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 4 FHD" group-title="Germania"  [GE] Sky Select Premiere 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 4 FHD" group-title="Germania" ,[GE] Sky Select Premiere 4 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15809.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 5 FHD" group-title="Germania"  [GE] Sky Select Premiere 5 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 5 FHD" group-title="Germania" ,[GE] Sky Select Premiere 5 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15810.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 6 FHD" group-title="Germania"  [GE] Sky Select Premiere 6 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 6 FHD" group-title="Germania" ,[GE] Sky Select Premiere 6 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15811.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 7 FHD" group-title="Germania"  [GE] Sky Select Premiere 7 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 7 FHD" group-title="Germania" ,[GE] Sky Select Premiere 7 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15812.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 8 FHD" group-title="Germania"  [GE] Sky Select Premiere 8 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 8 FHD" group-title="Germania" ,[GE] Sky Select Premiere 8 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15813.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 9 FHD" group-title="Germania"  [GE] Sky Select Premiere 9 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 9 FHD" group-title="Germania" ,[GE] Sky Select Premiere 9 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15814.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 10 FHD" group-title="Germania"  [GE] Sky Select Premiere 10 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 10 FHD" group-title="Germania" ,[GE] Sky Select Premiere 10 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15815.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 11 FHD" group-title="Germania"  [GE] Sky Select Premiere 11 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 11 FHD" group-title="Germania" ,[GE] Sky Select Premiere 11 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15816.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 12 FHD" group-title="Germania"  [GE] Sky Select Premiere 12 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 12 FHD" group-title="Germania" ,[GE] Sky Select Premiere 12 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15817.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 13 FHD" group-title="Germania"  [GE] Sky Select Premiere 13 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 13 FHD" group-title="Germania" ,[GE] Sky Select Premiere 13 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15818.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 14 FHD" group-title="Germania"  [GE] Sky Select Premiere 14 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 14 FHD" group-title="Germania" ,[GE] Sky Select Premiere 14 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15819.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 15 FHD" group-title="Germania"  [GE] Sky Select Premiere 15 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 15 FHD" group-title="Germania" ,[GE] Sky Select Premiere 15 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15820.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 16 FHD" group-title="Germania"  [GE] Sky Select Premiere 16 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 16 FHD" group-title="Germania" ,[GE] Sky Select Premiere 16 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15821.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 17 FHD" group-title="Germania"  [GE] Sky Select Premiere 17 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 17 FHD" group-title="Germania" ,[GE] Sky Select Premiere 17 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15822.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 18 FHD" group-title="Germania"  [GE] Sky Select Premiere 18 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Premiere 18 FHD" group-title="Germania" ,[GE] Sky Select Premiere 18 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15823.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 1 4K" group-title="Germania"  [GE] Sky Select 1 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 1 4K" group-title="Germania" ,[GE] Sky Select 1 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15824.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 2 4K" group-title="Germania"  [GE] Sky Select 2 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 2 4K" group-title="Germania" ,[GE] Sky Select 2 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15825.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 3 4K" group-title="Germania"  [GE] Sky Select 3 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 3 4K" group-title="Germania" ,[GE] Sky Select 3 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15826.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 4 4K" group-title="Germania"  [GE] Sky Select 4 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 4 4K" group-title="Germania" ,[GE] Sky Select 4 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15827.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 5 4K" group-title="Germania"  [GE] Sky Select 5 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 5 4K" group-title="Germania" ,[GE] Sky Select 5 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15828.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 6 4K" group-title="Germania"  [GE] Sky Select 6 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 6 4K" group-title="Germania" ,[GE] Sky Select 6 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15829.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 7 4K" group-title="Germania"  [GE] Sky Select 7 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 7 4K" group-title="Germania" ,[GE] Sky Select 7 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15830.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 8 4K" group-title="Germania"  [GE] Sky Select 8 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 8 4K" group-title="Germania" ,[GE] Sky Select 8 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15831.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 9 4K" group-title="Germania"  [GE] Sky Select 9 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 9 4K" group-title="Germania" ,[GE] Sky Select 9 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15832.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 3D Live" group-title="Germania"  [GE] Sky Select 3D Live
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select 3D Live" group-title="Germania" ,[GE] Sky Select 3D Live
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15833.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Mutivision 1 FHD" group-title="Germania"  [GE] Sky Select Mutivision 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Mutivision 1 FHD" group-title="Germania" ,[GE] Sky Select Mutivision 1 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15834.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Mutivision 2 FHD" group-title="Germania"  [GE] Sky Select Mutivision 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Mutivision 2 FHD" group-title="Germania" ,[GE] Sky Select Mutivision 2 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15835.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Multivision 1 4K" group-title="Germania"  [GE] Sky Select Multivision 1 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Multivision 1 4K" group-title="Germania" ,[GE] Sky Select Multivision 1 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15836.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Multivision 2 4K" group-title="Germania"  [GE] Sky Select Multivision 2 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Sky Select Multivision 2 4K" group-title="Germania" ,[GE] Sky Select Multivision 2 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15837.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 1" group-title="Germania"  [GE] POPCORN SELECT 1
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 1" group-title="Germania" ,[GE] POPCORN SELECT 1
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15838.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 2" group-title="Germania"  [GE] POPCORN SELECT 2
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 2" group-title="Germania" ,[GE] POPCORN SELECT 2
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15839.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 3" group-title="Germania"  [GE] POPCORN SELECT 3
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 3" group-title="Germania" ,[GE] POPCORN SELECT 3
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15840.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 4" group-title="Germania"  [GE] POPCORN SELECT 4
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 4" group-title="Germania" ,[GE] POPCORN SELECT 4
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15841.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 5" group-title="Germania"  [GE] POPCORN SELECT 5
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 5" group-title="Germania" ,[GE] POPCORN SELECT 5
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15842.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 6" group-title="Germania"  [GE] POPCORN SELECT 6
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="POPCORN SELECT 6" group-title="Germania" ,[GE] POPCORN SELECT 6
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15843.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZU TV Radio" group-title="Muzica",ZU TV Radio
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/14770.ts
@@ -1353,51 +1353,51 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/10173.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/10174.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[USA] ABC 7" group-title="U.S.A.",[USA] ABC 7
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/10175.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA 007 HD" group-title="U.S.A."  [USA] EMPIRE CINEMA 007 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA 007 HD" group-title="U.S.A." ,[USA] EMPIRE CINEMA 007 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15922.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA WESTERN FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA WESTERN FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA WESTERN FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA WESTERN FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15923.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA RELIGION HD" group-title="U.S.A."  [USA] EMPIRE CINEMA RELIGION HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA RELIGION HD" group-title="U.S.A." ,[USA] EMPIRE CINEMA RELIGION HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15924.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA MYTHOLOGY HD" group-title="U.S.A."  [USA] EMPIRE CINEMA MYTHOLOGY HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA MYTHOLOGY HD" group-title="U.S.A." ,[USA] EMPIRE CINEMA MYTHOLOGY HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15925.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA @THEATRE(CAM QUALITY)" group-title="U.S.A."  [USA] EMPIRE CINEMA @THEATRE(CAM QUALITY)
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA @THEATRE(CAM QUALITY)" group-title="U.S.A." ,[USA] EMPIRE CINEMA @THEATRE(CAM QUALITY)
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15926.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA ANIMATION FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA ANIMATION FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA ANIMATION FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA ANIMATION FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15927.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA PREMIERE FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA PREMIERE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA PREMIERE FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA PREMIERE FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15928.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA ACTION FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA ACTION FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA ACTION FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA ACTION FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15929.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA ADVENTURE FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA ADVENTURE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA ADVENTURE FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA ADVENTURE FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15930.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA FANTASY FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA FANTASY FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA FANTASY FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA FANTASY FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15931.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA SCI-FI FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA SCI-FI FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA SCI-FI FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA SCI-FI FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15932.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA COMEDY FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA COMEDY FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA COMEDY FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA COMEDY FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15933.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA COMICULT FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA COMICULT FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA COMICULT FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA COMICULT FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15934.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA THRILLER FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA THRILLER FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA THRILLER FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA THRILLER FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15935.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA HISTORY FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA HISTORY FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA HISTORY FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA HISTORY FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15936.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA ROMANCE FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA ROMANCE FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA ROMANCE FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA ROMANCE FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15937.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA DRAMA FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA DRAMA FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA DRAMA FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA DRAMA FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15938.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA HORROR FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA HORROR FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA HORROR FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA HORROR FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15939.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA BIOGRAPHY FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA BIOGRAPHY FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA BIOGRAPHY FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA BIOGRAPHY FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15940.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA FAMILY FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA FAMILY FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA FAMILY FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA FAMILY FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15941.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA HINDI FHD" group-title="U.S.A."  [USA] EMPIRE CINEMA HINDI FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA HINDI FHD" group-title="U.S.A." ,[USA] EMPIRE CINEMA HINDI FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15942.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA 4K" group-title="U.S.A."  [USA] EMPIRE CINEMA 4K
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] EMPIRE CINEMA 4K" group-title="U.S.A." ,[USA] EMPIRE CINEMA 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15943.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] Jean Claude Van Damme Channel FHD" group-title="U.S.A."  [USA] Jean Claude Van Damme Channel FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[USA] Jean Claude Van Damme Channel FHD" group-title="U.S.A." ,[USA] Jean Claude Van Damme Channel FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/15944.ts
 #EXTINF:-1 tvg-id="ProTV.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/15.png?44803"  tvg-name="PRO TV" group-title="Generale",PRO TV HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/17.ts
@@ -1751,109 +1751,109 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6982.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/14073.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://iptv.live/images/logo/channel/crops/c8bea90cbd53d0c17576c57510b8a8b6.png" tvg-name="RO HD CINEMA" group-title="Filme",RO HD CINEMA
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3780.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/84.png?81091" tvg-name="Film NOW HD" group-title="Filme"  Film NOW HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/84.png?81091" tvg-name="Film NOW HD" group-title="Filme" ,Film NOW HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/84.ts
-#EXTINF:-1 tvg-id="foodtv.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/235.png?97539" tvg-name="Food Network" group-title="Documentare"  Food Network
+#EXTINF:-1 tvg-id="foodtv.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/235.png?97539" tvg-name="Food Network" group-title="Documentare" ,Food Network
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/242.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Arcadia TV HD" group-title="Documentare"  Arcadia TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Arcadia TV HD" group-title="Documentare" ,Arcadia TV HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16368.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/233.png?98588" tvg-name="Viasat Explore" group-title="Documentare"  Viasat Explore
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/233.png?98588" tvg-name="Viasat Explore" group-title="Documentare" ,Viasat Explore
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/243.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/234.png?22076" tvg-name="Viasat Explorer HD" group-title="Documentare"  Viasat Explorer HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/234.png?22076" tvg-name="Viasat Explorer HD" group-title="Documentare" ,Viasat Explorer HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/392.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/241.png?45002" tvg-name="Fine Living" group-title="Documentare"  Fine Living
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/241.png?45002" tvg-name="Fine Living" group-title="Documentare" ,Fine Living
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/247.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/239.png?84530" tvg-name="Fashion TV" group-title="Documentare"  Fashion TV
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/239.png?84530" tvg-name="Fashion TV" group-title="Documentare" ,Fashion TV
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/250.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/120/215.png?89217" tvg-name="E! Entertainment HD" group-title="Documentare"  E! Entertainment HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/120/215.png?89217" tvg-name="E! Entertainment HD" group-title="Documentare" ,E! Entertainment HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/235.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/216.png?99833" tvg-name="E! Entertainment" group-title="Documentare"  E! Entertainment
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/216.png?99833" tvg-name="E! Entertainment" group-title="Documentare" ,E! Entertainment
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/234.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/220.png?22502" tvg-name="Digi World HD" group-title="Documentare"  Digi World HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/220.png?22502" tvg-name="Digi World HD" group-title="Documentare" ,Digi World HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/233.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/218.png?38216" tvg-name="DIGI WORLD" group-title="Documentare"  DIGI WORLD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/218.png?38216" tvg-name="DIGI WORLD" group-title="Documentare" ,DIGI WORLD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/232.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/217.png?17359" tvg-name="Digi Life HD" group-title="Documentare"  Digi Life HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/217.png?17359" tvg-name="Digi Life HD" group-title="Documentare" ,Digi Life HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/231.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/219.png?19095" tvg-name="DIGI LIFE" group-title="Documentare"  DIGI LIFE
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/219.png?19095" tvg-name="DIGI LIFE" group-title="Documentare" ,DIGI LIFE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/230.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Nature Relaxation HD" group-title="Documentare"  Nature Relaxation HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="Nature Relaxation HD" group-title="Documentare" ,Nature Relaxation HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/224.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/206.png?44182" tvg-name="TravelXP" group-title="Documentare"  TravelXP
+#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/206.png?44182" tvg-name="TravelXP" group-title="Documentare" ,TravelXP
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/14228.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/199.png?15009" tvg-name="TravelXP HD" group-title="Documentare"  TravelXP HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/199.png?15009" tvg-name="TravelXP HD" group-title="Documentare" ,TravelXP HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/14229.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOth4QmNyEkalwahfPCfiXjNh1r.jpg" tvg-name="Discovery Turbo Xtra" group-title="Documentare"  Discovery Turbo Xtra
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOth4QmNyEkalwahfPCfiXjNh1r.jpg" tvg-name="Discovery Turbo Xtra" group-title="Documentare" ,Discovery Turbo Xtra
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/205.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/195.png?43450" tvg-name="NASA Live" group-title="Documentare"  NASA Live HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/195.png?43450" tvg-name="NASA Live" group-title="Documentare" ,NASA Live HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6984.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/190.png?63338" tvg-name="Discovery Channel" group-title="Documentare"  Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/190.png?63338" tvg-name="Discovery Channel" group-title="Documentare" ,Discovery Channel
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/203.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/192.png?27252" tvg-name="Discovery Channel HD" group-title="Documentare"  Discovery Channel HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/192.png?27252" tvg-name="Discovery Channel HD" group-title="Documentare" ,Discovery Channel HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/204.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/191.png?62785" tvg-name="Discovery  HD Showcase" group-title="Documentare"  Discovery  HD Showcase
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/191.png?62785" tvg-name="Discovery  HD Showcase" group-title="Documentare" ,Discovery  HD Showcase
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6972.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/201.png?21022" tvg-name="ID Investigation Discovery" group-title="Documentare"  ID Investigation Discovery
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/201.png?21022" tvg-name="ID Investigation Discovery" group-title="Documentare" ,ID Investigation Discovery
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/208.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" tvg-name="Animal Planet HD" group-title="Documentare"  Animal Planet HD
+#EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" tvg-name="Animal Planet HD" group-title="Documentare" ,Animal Planet HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/225.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/197.png?59010" tvg-name="BBC Earth" group-title="Documentare"  BBC Earth
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/197.png?59010" tvg-name="BBC Earth" group-title="Documentare" ,BBC Earth
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/212.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/198.png?47835" tvg-name="BBC Earth HD" group-title="Documentare"  BBC Earth HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/198.png?47835" tvg-name="BBC Earth HD" group-title="Documentare" ,BBC Earth HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/213.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/204.png?9592" tvg-name="DocuBox" group-title="Documentare"  DocuBox
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/204.png?9592" tvg-name="DocuBox" group-title="Documentare" ,DocuBox
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/214.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/202.png?33376" tvg-name="DocuBox HD" group-title="Documentare"  DocuBox HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/202.png?33376" tvg-name="DocuBox HD" group-title="Documentare" ,DocuBox HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/215.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/207.png?96900" tvg-name="Nat Geo Wild HD" group-title="Documentare"  Nat Geo Wild HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/207.png?96900" tvg-name="Nat Geo Wild HD" group-title="Documentare" ,Nat Geo Wild HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/223.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/209.png?79184" tvg-name="NAT GEO WILD" group-title="Documentare"  NAT GEO WILD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/209.png?79184" tvg-name="NAT GEO WILD" group-title="Documentare" ,NAT GEO WILD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/222.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/120/203.png?64761" tvg-name="Nat Geo HD" group-title="Documentare"  Nat Geo HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/120/203.png?64761" tvg-name="Nat Geo HD" group-title="Documentare" ,Nat Geo HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/221.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/205.png?24801" tvg-name="NAT GEO" group-title="Documentare"  NAT GEO
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/205.png?24801" tvg-name="NAT GEO" group-title="Documentare" ,NAT GEO
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/220.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/213.png?95729" tvg-name="HISTORY CHANNEL" group-title="Documentare"  HISTORY CHANNEL
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/213.png?95729" tvg-name="HISTORY CHANNEL" group-title="Documentare" ,HISTORY CHANNEL
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/226.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/212.png?61800" tvg-name="History HD" group-title="Documentare"  History Channel HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/212.png?61800" tvg-name="History HD" group-title="Documentare" ,History Channel HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/227.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/222.png?51986" tvg-name="HGTV" group-title="Documentare"  HGTV
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/222.png?51986" tvg-name="HGTV" group-title="Documentare" ,HGTV
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5988.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/223.png?48620" tvg-name="HGTV HD" group-title="Documentare"  HGTV HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/223.png?48620" tvg-name="HGTV HD" group-title="Documentare" ,HGTV HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5989.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/214.png?45339" tvg-name="TLC" group-title="Documentare"  TLC
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/214.png?45339" tvg-name="TLC" group-title="Documentare" ,TLC
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/238.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="The Fishing and Hunting Channel HD" group-title="Documentare"  The Fishing and Hunting Channel HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="The Fishing and Hunting Channel HD" group-title="Documentare" ,The Fishing and Hunting Channel HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/237.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="The Fishing and Hunting Channel" group-title="Documentare"  The Fishing and Hunting Channel
+#EXTINF:-1 tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="The Fishing and Hunting Channel" group-title="Documentare" ,The Fishing and Hunting Channel
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/236.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/225.png?68668" tvg-name="TV PAPRIKA" group-title="Documentare"  TV PAPRIKA
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/225.png?68668" tvg-name="TV PAPRIKA" group-title="Documentare" ,TV PAPRIKA
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/248.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/226.png?51319" tvg-name="Travel MIX HD" group-title="Documentare"  Travel MIX HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/226.png?51319" tvg-name="Travel MIX HD" group-title="Documentare" ,Travel MIX HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/246.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/120/229.png?83908" tvg-name="Travel Channel HD" group-title="Documentare"  Travel Channel HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/120/229.png?83908" tvg-name="Travel Channel HD" group-title="Documentare" ,Travel Channel HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/217.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="Travel Channel" group-title="Documentare"  Travel Channel
+#EXTINF:-1 tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="Travel Channel" group-title="Documentare" ,Travel Channel
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/216.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="Viasat Nature HD" group-title="Documentare"  Viasat Nature HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="Viasat Nature HD" group-title="Documentare" ,Viasat Nature HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/218.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/240.png?32798" tvg-name="VIASAT NATURE" group-title="Documentare"  VIASAT NATURE
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/240.png?32798" tvg-name="VIASAT NATURE" group-title="Documentare" ,VIASAT NATURE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/245.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/238.png?32958" tvg-name="VIASAT HISTORY" group-title="Documentare"  VIASAT HISTORY
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/238.png?32958" tvg-name="VIASAT HISTORY" group-title="Documentare" ,VIASAT HISTORY
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/244.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/224.png?99544" tvg-name="Digi Animal World HD" group-title="Documentare"  Digi Animal World HD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/224.png?99544" tvg-name="Digi Animal World HD" group-title="Documentare" ,Digi Animal World HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/229.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/221.png?79328" tvg-name="DIGI ANIMAL WORLD" group-title="Documentare"  DIGI ANIMAL WORLD
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/221.png?79328" tvg-name="DIGI ANIMAL WORLD" group-title="Documentare" ,DIGI ANIMAL WORLD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/228.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/237.png?60379" tvg-name="DAVINCI LEARNING" group-title="Documentare"  DAVINCI LEARNING
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/237.png?60379" tvg-name="DAVINCI LEARNING" group-title="Documentare" ,DAVINCI LEARNING
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/241.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/196.png?78373" tvg-name="Crime & Investigation Network" group-title="Documentare"  Crime & Investigation Network
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/196.png?78373" tvg-name="Crime & Investigation Network" group-title="Documentare" ,Crime & Investigation Network
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/240.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/231.png?9503" tvg-name="CBS Reality" group-title="Documentare"  CBS Reality
+#EXTINF:-1 tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/231.png?9503" tvg-name="CBS Reality" group-title="Documentare" ,CBS Reality
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/239.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/194.png?3821" tvg-name="DISCOVERY SCIENCE" group-title="Documentare"  DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/194.png?3821" tvg-name="DISCOVERY SCIENCE" group-title="Documentare" ,DISCOVERY SCIENCE
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/210.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/232.png?59959" tvg-name="VIASAT HISTORY HD" group-title="Documentare"  VIASAT HISTORY HD
+#EXTINF:-1 tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/232.png?59959" tvg-name="VIASAT HISTORY HD" group-title="Documentare" ,VIASAT HISTORY HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/219.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" tvg-name="Nat Geo People" group-title="Documentare",Nat Geo People
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6983.ts
@@ -2543,119 +2543,119 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/10574.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/10575.ts
 #EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[FR] BOOMERANG HD" group-title="France",[FR] BOOMERANG HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/10576.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 1 FHD" group-title="France"  [FR] CANALPLAY 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 1 FHD" group-title="France" ,[FR] CANALPLAY 1 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16043.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 2 FHD" group-title="France"  [FR] CANALPLAY 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 2 FHD" group-title="France" ,[FR] CANALPLAY 2 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16044.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 3 FHD" group-title="France"  [FR] CANALPLAY 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 3 FHD" group-title="France" ,[FR] CANALPLAY 3 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16045.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 4 FHD" group-title="France"  [FR] CANALPLAY 4 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 4 FHD" group-title="France" ,[FR] CANALPLAY 4 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16046.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 5 FHD" group-title="France"  [FR] CANALPLAY 5 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 5 FHD" group-title="France" ,[FR] CANALPLAY 5 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16047.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 6 FHD" group-title="France"  [FR] CANALPLAY 6 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 6 FHD" group-title="France" ,[FR] CANALPLAY 6 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16048.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 7 FHD" group-title="France"  [FR] CANALPLAY 7 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 7 FHD" group-title="France" ,[FR] CANALPLAY 7 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16049.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 8 FHD" group-title="France"  [FR] CANALPLAY 8 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 8 FHD" group-title="France" ,[FR] CANALPLAY 8 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16050.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 9 FHD" group-title="France"  [FR] CANALPLAY 9 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 9 FHD" group-title="France" ,[FR] CANALPLAY 9 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16051.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 10 FHD" group-title="France"  [FR] CANALPLAY 10 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 10 FHD" group-title="France" ,[FR] CANALPLAY 10 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16052.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 11 FHD" group-title="France"  [FR] CANALPLAY 11 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 11 FHD" group-title="France" ,[FR] CANALPLAY 11 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16053.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 12 FHD" group-title="France"  [FR] CANALPLAY 12 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 12 FHD" group-title="France" ,[FR] CANALPLAY 12 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16054.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 13 FHD" group-title="France"  [FR] CANALPLAY 13 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 13 FHD" group-title="France" ,[FR] CANALPLAY 13 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16055.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 14 FHD" group-title="France"  [FR] CANALPLAY 14 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 14 FHD" group-title="France" ,[FR] CANALPLAY 14 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16056.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 15 FHD" group-title="France"  [FR] CANALPLAY 15 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 15 FHD" group-title="France" ,[FR] CANALPLAY 15 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16057.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 16 FHD" group-title="France"  [FR] CANALPLAY 16 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 16 FHD" group-title="France" ,[FR] CANALPLAY 16 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16058.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 17 FHD" group-title="France"  [FR] CANALPLAY 17 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 17 FHD" group-title="France" ,[FR] CANALPLAY 17 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16059.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 18 FHD" group-title="France"  [FR] CANALPLAY 18 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY 18 FHD" group-title="France" ,[FR] CANALPLAY 18 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16060.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY MULTIVISION 1 FHD" group-title="France"  [FR] CANALPLAY MULTIVISION 1 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY MULTIVISION 1 FHD" group-title="France" ,[FR] CANALPLAY MULTIVISION 1 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16061.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY MULTIVISION 2 FHD" group-title="France"  [FR] CANALPLAY MULTIVISION 2 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY MULTIVISION 2 FHD" group-title="France" ,[FR] CANALPLAY MULTIVISION 2 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16062.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY MULTIVISION 3 FHD" group-title="France"  [FR] CANALPLAY MULTIVISION 3 FHD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[FR] CANALPLAY MULTIVISION 3 FHD" group-title="France" ,[FR] CANALPLAY MULTIVISION 3 FHD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16063.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[Z_+18 Adults] Jasmin HD" group-title="+18 Adults"  [+18 Adults] Jasmin HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[Z_+18 Adults] Jasmin HD" group-title="+18 Adults" ,[+18 Adults] Jasmin HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/694.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[ 18 Adults] Dorcel HD" group-title="+18 Adults"  [ 18 Adults] Dorcel HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[ 18 Adults] Dorcel HD" group-title="+18 Adults" ,[ 18 Adults] Dorcel HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/875.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[ 18 Adults] Redlight HD" group-title="+18 Adults"  [ 18 Adults] Redlight HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[ 18 Adults] Redlight HD" group-title="+18 Adults" ,[ 18 Adults] Redlight HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/876.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[ 18 Adults] Hustler HD Europe" group-title="+18 Adults"  [ 18 Adults] Hustler HD Europe
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[ 18 Adults] Hustler HD Europe" group-title="+18 Adults" ,[ 18 Adults] Hustler HD Europe
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/877.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[ 18 Adults] Penthouse Black" group-title="+18 Adults"  [ 18 Adults] Penthouse Black
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hy7Ka19Vx2TwXA6OWZSe4XuMDlK.jpg" tvg-name="[ 18 Adults] Penthouse Black" group-title="+18 Adults" ,[ 18 Adults] Penthouse Black
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/879.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Penthouse Quickies" group-title="+18 Adults"  [ 18 Adults] Penthouse Quickies
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Penthouse Quickies" group-title="+18 Adults" ,[ 18 Adults] Penthouse Quickies
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/880.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Private TV HD" group-title="+18 Adults"  [ 18 Adults] Private TV HD
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Private TV HD" group-title="+18 Adults" ,[ 18 Adults] Private TV HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/881.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Vivid Red HD" group-title="+18 Adults"  [ 18 Adults] Vivid Red HD
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Vivid Red HD" group-title="+18 Adults" ,[ 18 Adults] Vivid Red HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/883.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Barely Legal TV" group-title="+18 Adults"  [ 18 Adults] Barely Legal TV
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Barely Legal TV" group-title="+18 Adults" ,[ 18 Adults] Barely Legal TV
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/886.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Cuckold" group-title="+18 Adults"  [ 18 Adults] Cuckold
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] Cuckold" group-title="+18 Adults" ,[ 18 Adults] Cuckold
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3527.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] RedTraffic Big Tits" group-title="+18 Adults"  [ 18 Adults] RedTraffic Big Tits
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] RedTraffic Big Tits" group-title="+18 Adults" ,[ 18 Adults] RedTraffic Big Tits
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3531.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] RedTraffic Cuckold" group-title="+18 Adults"  [ 18 Adults] RedTraffic Cuckold
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] RedTraffic Cuckold" group-title="+18 Adults" ,[ 18 Adults] RedTraffic Cuckold
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3533.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] RedTraffic Fetish" group-title="+18 Adults"  [ 18 Adults] RedTraffic Fetish
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] RedTraffic Fetish" group-title="+18 Adults" ,[ 18 Adults] RedTraffic Fetish
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3534.ts
-#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] RedTraffic Russian" group-title="+18 Adults"  [ 18 Adults] RedTraffic Russian
+#EXTINF:-1 tvg-ID="" tvg-logo="" tvg-name="[ 18 Adults] RedTraffic Russian" group-title="+18 Adults" ,[ 18 Adults] RedTraffic Russian
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3542.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 1 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 1 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 1 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16064.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 2 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 2 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 2 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16065.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 3 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 3 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 3 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16066.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 4 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 4 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 4 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16067.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 5 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 5 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 5 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16068.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 6 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 6 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 6 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16069.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 7 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 7 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 7 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 7 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16070.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 8 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 8 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 8 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 8 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16071.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 9 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 9 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 9 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 9 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16072.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 10 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 10 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 10 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 10 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16073.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 11 HD" group-title="+18 Adults"  [ 18 Adults] Adult TINY4K 11 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Adult TINY4K 11 HD" group-title="+18 Adults" ,[ 18 Adults] Adult TINY4K 11 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16074.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 1 HD" group-title="+18 Adults"  [ 18 Adults] HOTCLUB BABES 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 1 HD" group-title="+18 Adults" ,[ 18 Adults] HOTCLUB BABES 1 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16075.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 2 HD" group-title="+18 Adults"  [ 18 Adults] HOTCLUB BABES 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 2 HD" group-title="+18 Adults" ,[ 18 Adults] HOTCLUB BABES 2 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16076.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 3 HD" group-title="+18 Adults"  [ 18 Adults] HOTCLUB BABES 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 3 HD" group-title="+18 Adults" ,[ 18 Adults] HOTCLUB BABES 3 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16077.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 4 HD" group-title="+18 Adults"  [ 18 Adults] HOTCLUB BABES 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 4 HD" group-title="+18 Adults" ,[ 18 Adults] HOTCLUB BABES 4 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16078.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 5 HD" group-title="+18 Adults"  [ 18 Adults] HOTCLUB BABES 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB BABES 5 HD" group-title="+18 Adults" ,[ 18 Adults] HOTCLUB BABES 5 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16079.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB GANGBANG 1 HD" group-title="+18 Adults"  [ 18 Adults] HOTCLUB GANGBANG 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB GANGBANG 1 HD" group-title="+18 Adults" ,[ 18 Adults] HOTCLUB GANGBANG 1 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16080.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB GANGBANG 2 HD" group-title="+18 Adults"  [ 18 Adults] HOTCLUB GANGBANG 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] HOTCLUB GANGBANG 2 HD" group-title="+18 Adults" ,[ 18 Adults] HOTCLUB GANGBANG 2 HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16081.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] CZECH STREETS HD HD" group-title="+18 Adults"  [ 18 Adults] CZECH STREETS HD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] CZECH STREETS HD HD" group-title="+18 Adults" ,[ 18 Adults] CZECH STREETS HD HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16082.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Fake Taxi HD HD" group-title="+18 Adults"  [ 18 Adults] Fake Taxi HD HD
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Fake Taxi HD HD" group-title="+18 Adults" ,[ 18 Adults] Fake Taxi HD HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16083.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Folclor TV 2" group-title="+18 Adults"  [ 18 Adults] Folclor TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Folclor TV 2" group-title="+18 Adults" ,[ 18 Adults] Folclor TV 2
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3514.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Folclor TV 8" group-title="+18 Adults"  [ 18 Adults] Folclor TV 8
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="[ 18 Adults] Folclor TV 8" group-title="+18 Adults" ,[ 18 Adults] Folclor TV 8
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3520.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4SZ0gaObT4rzwZBUsF8EpEoSB2N.jpg" tvg-name="10 Minutes Gone (2019)" group-title="Actiune",10 Minutes Gone (2019)
 http://paby.gtxpro.co:8880/movie/u7Uy6rfk9X/mw0B94r7fJ/14943.mp4
