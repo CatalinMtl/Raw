@@ -1,6 +1,6 @@
-#EXTM3U
-#EXTINF:-1,tvg-id="NickJr.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/61.png?92388" tvg-name="Nick Jr." group-title="01_Kids",Nick Jr.
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/64.ts
+#EXTM3U	
+#EXTINF:-1,tvg-id="NickJr.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/61.png?92388"  tvg-name="Nick Jr." group-title="01_Kids",Nick Jr.
+http://paby.gtxpro.co:8880/live/6hV2pr05KT/q4hTCZsps6/64.ts
 #EXTINF:-1,tvg-id="DisneyJunior.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/54.png?10859"  tvg-name="DISNEY JUNIOR" group-title="01_Kids",DISNEY JUNIOR
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/58.ts
 #EXTINF:-1,tvg-id="DisneyChannel.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/55.png?66881"  tvg-name="DISNEY CHANNEL" group-title="01_Kids",DISNEY CHANNEL
@@ -11,8 +11,6 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11288.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/11295.ts
 #EXTINF:-1,tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/64.png?14760" tvg-name="HBO Kids" group-title="01_Kids",HBO Kids
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/14074.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Kids" group-title="01_Kids",Magura Kids
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16289.ts
 #EXTINF:-1,tvg-id="CartoonNetwork.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/56.png?80288"  tvg-name="CARTOON NETWORK" group-title="01_Kids",CARTOON NETWORK
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/59.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/65.png?24764" tvg-name="Boomerang RO" group-title="01_Kids",Boomerang RO
@@ -399,8 +397,6 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/330.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/320.ts
 #EXTINF:-1,tvg-id="Mezzo.ro" tvg-logo="" tvg-name="MEZZO" group-title="Muzica",MEZZO
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/329.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CineMovies Manele" group-title="Muzica",CineMovies Manele
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6691.ts
 #EXTINF:-1,tvg-id="TarafTV.ro" tvg-logo="" tvg-name="TARAF TV" group-title="Muzica",TARAF TV
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/325.ts
 #EXTINF:-1,tvg-id="IneditTV.ro" tvg-logo="" tvg-name="Inedit TV" group-title="Muzica",Inedit TV
@@ -423,8 +419,6 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/295.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/297.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="ZU TV" group-title="Muzica",ZU TV
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/293.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Muzica de Ascultare" group-title="Muzica",Magura Muzica de Ascultare
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16301.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="One.by 4K" group-title="Muzica",One.by 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/631.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="One.by HD" group-title="Muzica",One.by HD
@@ -557,6 +551,10 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/7809.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/7800.ts
 #EXTINF:-1,tvg-id="" tvg-logo="https://mediacdns.karnaval.com/media/station_media/15/logos/android_default_logo.png?v=300919030810" tvg-name="VIRGIN RADIO TURKEY" group-title="Radio",VIRGIN RADIO TURKEY
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/14222.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://tm.panel.wtf:8880/images/c085fe26258476fe6ca5367a5b7a16ee.png" tvg-name="RADIO SPORT TOTAL FM ROMANIA" group-title="Radio",RADIO SPORT TOTAL FM ROMANIA
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16323.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://tm.panel.wtf:8880/images/3f641f36cdee11944705fad10214252e.png" tvg-name="RADIO BALADA BISTRITA - POPULAR" group-title="Radio",RADIO BALADA BISTRITA - POPULAR
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16324.ts
 #EXTINF:-1,tvg-id="bbc.canada.east.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/BBC_Canada_logo.svg/200px-BBC_Canada_logo.svg.png" tvg-name="|CA| BBC CANADA HD" group-title="CANADA",|CA| BBC CANADA HD
 http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30333
 #EXTINF:-1,tvg-id="cbc.cbmt.montreal.qc.ca" tvg-logo="http://x.iptv-pure.com/canada/cbcca.png" tvg-name="|CA| CBC MONTREAL HD" group-title="CANADA",|CA| CBC MONTREAL HD
@@ -2081,132 +2079,146 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/276.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/281.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="[USA] FASHION 4K" group-title="QUHD - 60FPS - 4K",[USA] FASHION 4K
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/9919.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura 4K" group-title="QUHD - 60FPS - 4K",Magura 4K
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16291.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://iptv.live/images/logo/channel/crops/c8bea90cbd53d0c17576c57510b8a8b6.png" tvg-name="HDNet 4k" group-title="Filme",HDNet 4k
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/8728.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Action" group-title="Filme",Magura Action
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16278.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Bruce Willis" group-title="Filme",Magura Bruce Willis
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16279.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Keanu Reeves" group-title="Filme",Magura Keanu Reeves
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16280.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura  Muzica Crestina" group-title="Filme",Magura  Muzica Crestina
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16281.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Mark Wahlberg" group-title="Filme",Magura Mark Wahlberg
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16282.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Horror" group-title="Filme",Magura Horror
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16283.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Cinema" group-title="Filme",Magura Cinema
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16284.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Comedy" group-title="Filme",Magura Comedy
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16285.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Family Time" group-title="Filme",Magura Family Time
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16286.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Istoric" group-title="Filme",Magura Istoric
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16287.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Kung Fu" group-title="Filme",Magura Kung Fu
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16288.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Bollywood" group-title="Filme",Magura Bollywood
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16290.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura DC vs Marvel Supereroi" group-title="Filme",Magura DC vs Marvel Supereroi
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16292.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Filme Religioase" group-title="Filme",Magura Filme Religioase
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16293.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Filme Românești" group-title="Filme",Magura Filme Românești
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16294.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Iumor" group-title="Filme",Magura Iumor
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16295.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Las Fierbinti" group-title="Filme",Magura Las Fierbinti
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16296.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Jackie Chan" group-title="Filme",Magura Jackie Chan
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16297.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Van Damme" group-title="Filme",Magura Van Damme
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16298.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Jet Li vs Bruce Lee" group-title="Filme",Magura Jet Li vs Bruce Lee
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16299.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Sylvester Stallone" group-title="Filme",Magura Sylvester Stallone
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16300.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Dwayne The Rock Johnson" group-title="Filme",Magura Dwayne The Rock Johnson
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16302.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Chuck Norris" group-title="Filme",Magura Chuck Norris
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16303.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Tom Cruise" group-title="Filme",Magura Tom Cruise
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16304.ts
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16371.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Arnold Schwarzenegger" group-title="Filme",Magura Arnold Schwarzenegger
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16305.ts
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16394.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Bollywood" group-title="Filme",Magura Bollywood
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16379.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Bruce Willis" group-title="Filme",Magura Bruce Willis
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16397.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Chuck Norris" group-title="Filme",Magura Chuck Norris
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16392.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Cinema" group-title="Filme",Magura Cinema
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16373.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Comedy" group-title="Filme",Magura Comedy
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16374.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura DC vs Marvel Supereroi" group-title="Filme",Magura DC vs Marvel Supereroi
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16381.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Denzel Washington" group-title="Filme",Magura Denzel Washington
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16306.ts
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16395.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Dwayne The Rock Johnson" group-title="Filme",Magura Dwayne The Rock Johnson
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16391.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Family Time" group-title="Filme",Magura Family Time
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16375.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Filme Religioase" group-title="Filme",Magura Filme Religioase
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16382.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Filme Românești" group-title="Filme",Magura Filme Românești
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16383.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Horror" group-title="Filme",Magura Horror
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16372.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Istoric" group-title="Filme",Magura Istoric
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16376.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Iumor" group-title="Filme",Magura Iumor
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16384.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Jackie Chan" group-title="Filme",Magura Jackie Chan
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16386.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Jason Statham" group-title="Filme",Magura Jason Statham
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16307.ts
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16396.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Jet Li vs Bruce Lee" group-title="Filme",Magura Jet Li vs Bruce Lee
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16388.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Keanu Reeves" group-title="Filme",Magura Keanu Reeves
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16398.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Kids" group-title="Filme",Magura Kids
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16378.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Kung Fu" group-title="Filme",Magura Kung Fu
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16377.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Las Fierbinti" group-title="Filme",Magura Las Fierbinti
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16385.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Mark Wahlberg" group-title="Filme",Magura Mark Wahlberg
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16402.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Sylvester Stallone" group-title="Filme",Magura Sylvester Stallone
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16389.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Tom Cruise" group-title="Filme",Magura Tom Cruise
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16393.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Van Damme" group-title="Filme",Magura Van Damme
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16387.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Will Smith" group-title="Filme",Magura Will Smith
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16308.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Magura Vin Diesel" group-title="Filme",Magura Vin Diesel
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16309.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids" group-title="Filme",ZokkoTv Kids
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16332.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids Two" group-title="Filme",ZokkoTv Kids Two
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16333.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids Three" group-title="Filme",ZokkoTv Kids Three
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16334.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids Four" group-title="Filme",ZokkoTv Kids Four
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16335.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids Five" group-title="Filme",ZokkoTv Kids Five
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16336.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f078c5398f338088ccac6dfcc476e206.png" tvg-name="ZokkoTv Manele" group-title="Filme",ZokkoTv Manele
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16337.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action Four" group-title="Filme",ZokkoTv Action Four
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16338.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action Five" group-title="Filme",ZokkoTv Action Five
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16339.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action Three" group-title="Filme",ZokkoTv Action Three
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16399.ts
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="MG Magura Vin Diesel" group-title="Filme",MG Magura Vin Diesel
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16400.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://tm.panel.wtf:8880/images/93c0212ce6e50380b1664e6fd618a9ae.png" tvg-name="ZokkoTv 4K" group-title="Filme",ZokkoTv 4K
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16327.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://tm.panel.wtf:8880/images/93c0212ce6e50380b1664e6fd618a9ae.png" tvg-name="ZokkoTv 4K 2" group-title="Filme",ZokkoTv 4K Two
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16330.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://tm.panel.wtf:8880/images/93c0212ce6e50380b1664e6fd618a9ae.png" tvg-name="ZokkoTv 4K 3" group-title="Filme",ZokkoTv 4K Three
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16331.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action" group-title="Filme",ZokkoTv Action
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16357.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action 2" group-title="Filme",ZokkoTv Action Two
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16358.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action 3" group-title="Filme",ZokkoTv Action Three
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16340.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action Six" group-title="Filme",ZokkoTv Action Six
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action 4" group-title="Filme",ZokkoTv Action Four
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16338.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action 5" group-title="Filme",ZokkoTv Action Five
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16339.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action 6" group-title="Filme",ZokkoTv Action Six
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16341.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action Seven" group-title="Filme",ZokkoTv Action Seven
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action 7" group-title="Filme",ZokkoTv Action Seven
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16342.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action Eight" group-title="Filme",ZokkoTv Action Eight
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action 8" group-title="Filme",ZokkoTv Action Eight
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16343.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action Nine" group-title="Filme",ZokkoTv Action Nine
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action 9" group-title="Filme",ZokkoTv Action Nine
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16344.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action Ten" group-title="Filme",ZokkoTv Action Ten
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action 10" group-title="Filme",ZokkoTv Action Ten
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16345.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/4e4b410ace44514ab125c9136ab5e836.png" tvg-name="ZokkoTv Adventure" group-title="Filme",ZokkoTv Adventure
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16351.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/4e4b410ace44514ab125c9136ab5e836.png" tvg-name="ZokkoTv Adventure 2" group-title="Filme",ZokkoTv Adventure Two
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16352.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/4e4b410ace44514ab125c9136ab5e836.png" tvg-name="ZokkoTv Adventure 3" group-title="Filme",ZokkoTv Adventure Three
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16353.ts
 #EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/036f0a763d97b91cc0a3c80811e4b653.png" tvg-name="ZokkoTv Comedy" group-title="Filme",ZokkoTv Comedy
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16346.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/036f0a763d97b91cc0a3c80811e4b653.png" tvg-name="ZokkoTV Comedy Two" group-title="Filme",ZokkoTV Comedy Two
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/036f0a763d97b91cc0a3c80811e4b653.png" tvg-name="ZokkoTV Comedy 2" group-title="Filme",ZokkoTV Comedy Two
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16347.ts
 #EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/e141afec1ea160c66a980cdab57db3cb.png" tvg-name="ZokkoTv Horror" group-title="Filme",ZokkoTv Horror
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16348.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/e141afec1ea160c66a980cdab57db3cb.png" tvg-name="ZokkoTv Horror Two" group-title="Filme",ZokkoTv Horror Two
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/e141afec1ea160c66a980cdab57db3cb.png" tvg-name="ZokkoTv Horror 2" group-title="Filme",ZokkoTv Horror Two
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16349.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/e141afec1ea160c66a980cdab57db3cb.png" tvg-name="ZokkoTv Horror Three" group-title="Filme",ZokkoTv Horror Three
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/e141afec1ea160c66a980cdab57db3cb.png" tvg-name="ZokkoTv Horror 3" group-title="Filme",ZokkoTv Horror Three
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16350.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/4e4b410ace44514ab125c9136ab5e836.png" tvg-name="ZokkoTv Adventure" group-title="Filme",ZokkoTv Adventure
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16351.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/4e4b410ace44514ab125c9136ab5e836.png" tvg-name="ZokkoTv Adventure Two" group-title="Filme",ZokkoTv Adventure Two
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16352.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/4e4b410ace44514ab125c9136ab5e836.png" tvg-name="ZokkoTv Adventure Three" group-title="Filme",ZokkoTv Adventure Three
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16353.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/91cb431a2046ed5de388b2576bc81664.png" tvg-name="ZokkoTv Thriller" group-title="Filme",ZokkoTv Thriller
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16354.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/91cb431a2046ed5de388b2576bc81664.png" tvg-name="ZokkoTv Thriller Three" group-title="Filme",ZokkoTv Thriller Three
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16355.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/91cb431a2046ed5de388b2576bc81664.png" tvg-name="ZokkoTv Thriller Four" group-title="Filme",ZokkoTv Thriller Four
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16356.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action" group-title="Filme",ZokkoTv Action
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16357.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/80bf803ccf208091e56971abdf10c896.png" tvg-name="ZokkoTv Action Two" group-title="Filme",ZokkoTv Action Two
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16358.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/91cb431a2046ed5de388b2576bc81664.png" tvg-name="ZokkoTv Thriller Two" group-title="Filme",ZokkoTv Thriller Two
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16359.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/68bc71972ba11f76414d5f5c493253b7.png" tvg-name="ZokkoTv Science Fiction" group-title="Filme",ZokkoTv Science Fiction
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16360.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/68bc71972ba11f76414d5f5c493253b7.png" tvg-name="ZokkoTv Science Fiction Two" group-title="Filme",ZokkoTv Science Fiction Two
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16361.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/68bc71972ba11f76414d5f5c493253b7.png" tvg-name="ZokkoTv Science Fiction Three" group-title="Filme",ZokkoTv Science Fiction Three
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16362.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f5fc0f81bb6c5a2b07724a3b4952b483.png" tvg-name="ZokkoTv New Movies" group-title="Filme",ZokkoTv New Movies
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16363.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids" group-title="Filme",ZokkoTv Kids
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16332.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids 2" group-title="Filme",ZokkoTv Kids Two
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16333.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids 3" group-title="Filme",ZokkoTv Kids Three
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16334.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids 4" group-title="Filme",ZokkoTv Kids Four
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16335.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f36c00aac30649601c5e67f3fecd1289.png" tvg-name="ZokkoTv Kids 5" group-title="Filme",ZokkoTv Kids Five
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16336.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f078c5398f338088ccac6dfcc476e206.png" tvg-name="ZokkoTv Manele" group-title="Filme",ZokkoTv Manele
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16337.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://tm.panel.wtf:8880/images/f5fc0f81bb6c5a2b07724a3b4952b483.png" tvg-name="ZokkoTV Movies 2020" group-title="Filme",ZokkoTV Movies 2020
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16326.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://tm.panel.wtf:8880/images/93c0212ce6e50380b1664e6fd618a9ae.png" tvg-name="ZokkoTv Movies 4K" group-title="Filme",ZokkoTv Movies 4K
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16329.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://tm.panel.wtf:8880/images/f078c5398f338088ccac6dfcc476e206.png" tvg-name="ZokkoTv Music" group-title="Filme",ZokkoTv Music
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16328.ts
 #EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f078c5398f338088ccac6dfcc476e206.png" tvg-name="ZokkoTv Music Alternative( Necenzurat)" group-title="Filme",ZokkoTv Music Alternative( Necenzurat)
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16364.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/f5fc0f81bb6c5a2b07724a3b4952b483.png" tvg-name="ZokkoTv New Movies" group-title="Filme",ZokkoTv New Movies
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16363.ts
+#EXTINF:-1,tvg-id="" tvg-logo="https://i.imgur.com/eOkTnV2.png" tvg-name="ZokkoTv New Releases" group-title="Filme",ZokkoTv New Releases
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16325.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/68bc71972ba11f76414d5f5c493253b7.png" tvg-name="ZokkoTv Science Fiction" group-title="Filme",ZokkoTv Science Fiction
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16360.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/68bc71972ba11f76414d5f5c493253b7.png" tvg-name="ZokkoTv Science Fiction 2" group-title="Filme",ZokkoTv Science Fiction Two
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16361.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/68bc71972ba11f76414d5f5c493253b7.png" tvg-name="ZokkoTv Science Fiction 3" group-title="Filme",ZokkoTv Science Fiction Three
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16362.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/91cb431a2046ed5de388b2576bc81664.png" tvg-name="ZokkoTv Thriller" group-title="Filme",ZokkoTv Thriller
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16354.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/91cb431a2046ed5de388b2576bc81664.png" tvg-name="ZokkoTv Thriller 2" group-title="Filme",ZokkoTv Thriller Two
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16359.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/91cb431a2046ed5de388b2576bc81664.png" tvg-name="ZokkoTv Thriller 3" group-title="Filme",ZokkoTv Thriller Three
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16355.ts
+#EXTINF:-1,tvg-id="" tvg-logo="http://paby.gtxpro.co:8880/images/91cb431a2046ed5de388b2576bc81664.png" tvg-name="ZokkoTv Thriller 4" group-title="Filme",ZokkoTv Thriller Four
+http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16356.ts
 #EXTINF:-1,tvg-id="amc.ro" tvg-logo="" tvg-name="AMC HD" group-title="Filme",AMC HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16318.ts
 #EXTINF:-1,tvg-id="" tvg-logo="http://iptv.live/images/logo/channel/crops/c8bea90cbd53d0c17576c57510b8a8b6.png" tvg-name="DX Action HD" group-title="Filme",DX Action HD
@@ -2243,24 +2255,12 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/2660.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5195.ts
 #EXTINF:-1,tvg-id="" tvg-logo="http://iptv.live/images/logo/channel/crops/dd5e409fbf796d9ea6dd3e065f803261.png" tvg-name="HBO Signature HD East" group-title="Filme",HBO Signature HD East
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/13317.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="http://iptv.live/images/logo/channel/crops/c8bea90cbd53d0c17576c57510b8a8b6.png" tvg-name="RO AS HD ACTION" group-title="Filme",RO HD ACTION
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/2415.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="http://iptv.live/images/logo/channel/crops/c8bea90cbd53d0c17576c57510b8a8b6.png" tvg-name="RO AS HD LAS FIERBINTI" group-title="Filme",RO HD LAS FIERBINTI
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3777.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="http://iptv.live/images/logo/channel/crops/c8bea90cbd53d0c17576c57510b8a8b6.png" tvg-name="RO AS HD X-FACTOR" group-title="Filme",RO HD X-FACTOR
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/4083.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/8.png?5687" tvg-name="AS RO HD INFO DOCU" group-title="Filme",ExpressGO HD INFO DOCU
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5193.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="http://iptv.live/images/logo/channel/crops/c8bea90cbd53d0c17576c57510b8a8b6.png" tvg-name="AS RO HD Indian" group-title="Filme",DX-NET  Indian
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/5194.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="AS RO HD FILM *2020" group-title="Filme",Skynet Western
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6678.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SKYNET Premiera 4K" group-title="Filme",SKYNET  Romantic
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6034.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Skynet Desene Animate" group-title="Filme",Skynet Desene Animate
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6041.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SKYNET Best" group-title="Filme",SKYNET Best
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6043.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Skynet Actiune" group-title="Filme",Skynet Actiune
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6044.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Skynet Aventura" group-title="Filme",Skynet Aventura
@@ -2269,26 +2269,12 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6045.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6047.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SKYNET Romani au Talent" group-title="Filme",SKYNET Romani au Talent 2020
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6048.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Skynet Bollywood" group-title="Filme",Skynet Bollywood
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6049.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SKYNET Las Fierbinti 2" group-title="Filme",SKYNET Las Fierbinti 2
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6050.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SKYNET Las Fierbinti" group-title="Filme",SKYNET Las Fierbinti
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6051.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SKYNET X Factor" group-title="Filme",SKYNET X Factor
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6052.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SKYNET iHumor" group-title="Filme",SKYNET iHumor
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6692.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CINEMOVI" group-title="Filme",CINEMOVI 4K Star
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6024.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CINEMOVIES-File De Colectie" group-title="Filme",CINEMOVIES-File De Colectie
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6027.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CINEMOVIES Colectie Romania" group-title="Filme",CINEMOVIES Colectie Romania
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6029.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CINEMOVIEST Wo and a Half Men" group-title="Filme",CINEMOVIEST Wo and a Half Men
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6030.ts
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CINEMOVIES Star Action" group-title="Filme",CINEMOVIES Star Action
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6031.ts
 #EXTINF:-1,tvg-id="Pro2.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/20.png?57399"  tvg-name="PRO 2" group-title="Filme",PRO 2
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/25.ts
 #EXTINF:-1,tvg-id="Pro2.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/37.png?89997"  tvg-name="PRO 2 HD" group-title="Filme",PRO 2 HD
@@ -2347,14 +2333,10 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/202.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/6982.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Skynet Movies Box Office" group-title="Filme",Skynet Movies Box Office
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/14073.ts
-#EXTINF:-1,tvg-id="" tvg-logo="http://iptv.live/images/logo/channel/crops/c8bea90cbd53d0c17576c57510b8a8b6.png" tvg-name="RO HD CINEMA" group-title="Filme",RO HD CINEMA
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/3780.ts
 #EXTINF:-1,tvg-id="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/84.png?81091" tvg-name="Film NOW HD" group-title="Filme" ,Film NOW HD
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/84.ts
 #EXTINF:-1,tvg-id="foodtv.ro" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/235.png?97539" tvg-name="Food Network" group-title="Documentare" ,Food Network
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/242.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Arcadia TV HD" group-title="Documentare" ,Arcadia TV HD
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16368.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/233.png?98588" tvg-name="Viasat Explore" group-title="Documentare" ,Viasat Explore
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/243.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="http://min.gbx.name/stalker_portal/misc/logos/320/234.png?22076" tvg-name="Viasat Explorer HD" group-title="Documentare" ,Viasat Explorer HD
@@ -2553,10 +2535,6 @@ http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/370.ts
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16365.ts
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Etnic TV" group-title="Regionale",Etnic TV
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16366.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Miorita TV" group-title="Regionale",Miorita TV
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16367.ts
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Trinitas HD" group-title="Regionale",Trinitas HD
-http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/16370.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="http://iptv.live/images/logo/channel/crops/8f43b53dfd965f4e4d264b27662770ef.png" tvg-name="BusuiocTV" group-title="Moldova HD",BusuiocTV
 http://paby.gtxpro.co:8880/live/u7Uy6rfk9X/mw0B94r7fJ/655.ts
 #EXTINF:-1,tvg-ID="" tvg-logo="http://iptv.live/images/logo/channel/crops/d091f75b8f5375253fd869756b89b92f.png" tvg-name="Canal 2" group-title="Moldova HD",Canal 2
@@ -24583,5 +24561,3 @@ http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/103136
 http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/103585
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="|US| Z CLASSIC " group-title="Z_USA - IPTV",|US| Z CLASSIC 
 http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/103586
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="|US| Z LIVING HD (S)" group-title="Z_USA - IPTV",|US| Z LIVING HD (S)
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/104448
