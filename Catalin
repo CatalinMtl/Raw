@@ -1,4 +1,4 @@
-#EXTINF:-1          
+#EXTINF:-1
 #EXTINF:-1,tvg-id="NickJr.ro" tvg-logo="" tvg-name="Nick Jr." group-title="01_Kids",Nick Jr
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16578
 #EXTINF:-1,tvg-id="DisneyJunior.ro" tvg-logo="" tvg-name="DISNEY JUNIOR" group-title="01_Kids",Disney Junior
@@ -17,10 +17,6 @@ http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16599
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16600
 #EXTINF:-1,tvg-id="" tvg-logo="http://trepro.ddns.net/picon/copii.jpg" tvg-name="Cinema Kids-Dublat" group-title="01_Kids",Cinema Kids-Dublat
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20177
-#EXTINF:-1,tvg-id="Minimax.ro" tvg-logo="" tvg-name="MINIMAX" group-title="01_Kids",Minimax
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16574
-#EXTINF:-1,tvg-id="Nickelodeon.ro" tvg-logo="" tvg-name="NICKELODEON" group-title="01_Kids",Nickelodeon
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16580
 #EXTINF:-1,tvg-id="Nickelodeon.ro" tvg-logo="" tvg-name="Nickelodeon HD" group-title="01_Kids",Nickelodeon HD
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16581
 #EXTINF:-1,tvg-id="JimJam.ro" tvg-logo="" tvg-name="JimJam" group-title="01_Kids",Jimjam
@@ -155,230 +151,6 @@ http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18133
 http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21040
 #EXTINF:-1,tvg-id="cbc.news.network.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/CBC_News_Logo.svg/200px-CBC_News_Logo.svg.png" tvg-name="CA CBC NEWS NETWORK HD" group-title="Canada",CA CBC NEWS NETWORK HD
 http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30325
-#EXTINF:-1,tvg-id="cbc.cblt.toronto.on.ca" tvg-logo="http://x.iptv-pure.com/Canada/cbcca.png" tvg-name="CA CBC TORONTO HD" group-title="Canada",CA CBC TORONTO HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30323
-#EXTINF:-1,tvg-id="cnbc.Canada.ca" tvg-logo="http://x.iptv-pure.com/astra28.2/1_0_1_C6C2_82A_2_11A0000_0_0_0.png" tvg-name="CA CNBC HD" group-title="Canada",CA CNBC HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30315
-#EXTINF:-1,tvg-id="cnn.ca" tvg-logo="http://x.iptv-pure.com/astrahotbird/1_0_1_1146_404_1_C00000_0_0_0.png" tvg-name="CA CNN HD" group-title="Canada",CA CNN HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30314
-#EXTINF:-1,tvg-id="cnn.international.north.america.ca" tvg-logo="http://x.iptv-pure.com/astrahotbird/1_0_1_1146_404_1_C00000_0_0_0.png" tvg-name="CA CNN INTERNATIONAL HD" group-title="Canada",CA CNN INTERNATIONAL HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30313
-#EXTINF:-1,tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CTV_News_2019.svg/320px-CTV_News_2019.svg.png" tvg-name="CA CTV LIVE NEWS 1" group-title="Canada",CA CTV LIVE NEWS 1
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/100127
-#EXTINF:-1,tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CTV_News_2019.svg/320px-CTV_News_2019.svg.png" tvg-name="CA CTV LIVE NEWS 2" group-title="Canada",CA CTV LIVE NEWS 2
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/100128
-#EXTINF:-1,tvg-id="ctv.news.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/CTV_News_2019.svg/320px-CTV_News_2019.svg.png" tvg-name="CA CTV NEWS CHANNEL HD" group-title="Canada",CA CTV NEWS CHANNEL HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30302
-#EXTINF:-1,tvg-id="euronews.francais.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/200px-Euronews_2016_logo.svg.png" tvg-name="CA EURONEWS HD" group-title="Canada",CA EURONEWS HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98908
-#EXTINF:-1,tvg-id="dummy.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS0OAgtAd_BR16aebJNrdtUe5NQJP4gOnT4rvGennhvUAH-zgTD&usqp=CAU" tvg-name="CA FEU DE FOYER HD" group-title="Canada",CA FEU DE: FOYER HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98909
-#EXTINF:-1,tvg-id="fox.news.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/200px-Fox_News_Channel_logo.svg.png" tvg-name="CA FOX NEWS HD" group-title="Canada",CA FOX NEWS HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30277
-#EXTINF:-1,tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/141px-Logos_FRANCE24_RVB_2013.svg.png" tvg-name="CA FRANCE 24" group-title="Canada",CA FRANCE 24
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98910
-#EXTINF:-1,tvg-id="rdi.news.ca" tvg-logo="http://x.iptv-pure.com/Canada/icirdi.png" tvg-name="CA ICI RDI HD" group-title="Canada",CA ICI RDI HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21029
-#EXTINF:-1,tvg-id="lcn.ca" tvg-logo="" tvg-name="CA LCN HD" group-title="Canada",CA LCN HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98894
-#EXTINF:-1,tvg-id="meteo.media.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/MeteoMedia_2011.svg/200px-MeteoMedia_2011.svg.png" tvg-name="CA METEO MEDIA" group-title="Canada",CA METEO MEDIA
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21032
-#EXTINF:-1,tvg-id="msnbc.Canada.ca" tvg-logo="" tvg-name="CA MSNBC" group-title="Canada",CA MSNBC
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/100139
-#EXTINF:-1,tvg-id="weather.network.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/TWN_Logo_2011.svg/258px-TWN_Logo_2011.svg.png" tvg-name="CA THE WEATHER NETWORK MONTREAL" group-title="Canada",CA THE WEATHER NETWORK MONTREAL
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30281
-#EXTINF:-1,tvg-id="tv5.international.east.ca" tvg-logo="" tvg-name="CA TV5 QUÉBEC HD" group-title="Canada",CA TV5 QUÉBEC HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98893
-#EXTINF:-1,tvg-id="ami.tele.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Amitele_logo.jpg" tvg-name="CA AMI TELE HD" group-title="Canada",CA AMI TELE HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30215
-#EXTINF:-1,tvg-id="animal.planet.Canada.ca" tvg-logo="http://f.iptv-pure.com/Animal_Planet.png" tvg-name="CA ANIMAL PLANET HD" group-title="Canada",CA ANIMAL PLANET HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30335
-#EXTINF:-1,tvg-id="cartoon.network.Canada.ca" tvg-logo="http://f.iptv-pure.com/cartoonnetwork.png" tvg-name="CA CARTOON NETWORK" group-title="Canada",CA CARTOON NETWORK
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30326
-#EXTINF:-1,tvg-id="casa.ca" tvg-logo="http://x.iptv-pure.com/Canada/casa.png" tvg-name="CA CASA HD" group-title="Canada",CA CASA HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21041
-#EXTINF:-1,tvg-id="cbs.wivb.buffalo.ny.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/WIVB_Logo.png/150px-WIVB_Logo.png" tvg-name="CA CBS 4 BUFFALO HD" group-title="Canada",CA CBS 4 BUFFALO HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30321
-#EXTINF:-1,tvg-id="chch.hamilton.on.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/CHCH2010.svg/200px-CHCH2010.svg.png" tvg-name="CA CHCH HD" group-title="Canada",CA CHCH HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30319
-#EXTINF:-1,tvg-id="city.montreal.qc.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/200px-Citytv_logo.svg.png" tvg-name="CA CITYTV MONTREAL" group-title="Canada",CA CITYTV MONTREAL
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30184
-#EXTINF:-1,tvg-id="crave1.east.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/200px-Crave_2018_logo.svg.png" tvg-name="CA CRAVE 1 HD" group-title="Canada",CA CRAVE 1 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30232
-#EXTINF:-1,tvg-id="crave2.east.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/200px-Crave_2018_logo.svg.png" tvg-name="CA CRAVE 2 HD" group-title="Canada",CA CRAVE 2 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30231
-#EXTINF:-1,tvg-id="crave3.east.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/200px-Crave_2018_logo.svg.png" tvg-name="CA CRAVE 3 HD" group-title="Canada",CA CRAVE 3 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30230
-#EXTINF:-1,tvg-id="crave4.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/200px-Crave_2018_logo.svg.png" tvg-name="CA CRAVE 4 HD" group-title="Canada",CA CRAVE 4 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30229
-#EXTINF:-1,tvg-id="ctv.comedy.east.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/CTV_Comedy_Channel_2019.svg/200px-CTV_Comedy_Channel_2019.svg.png" tvg-name="CA CTV COMEDY CHANNEL HD" group-title="Canada",CA CTV COMEDY CHANNEL HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30312
-#EXTINF:-1,tvg-id="ctv.drama.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/CTV_Drama_Channel_2019.svg/320px-CTV_Drama_Channel_2019.svg.png" tvg-name="CA CTV DRAMA CHANNEL  HD" group-title="Canada",CA CTV DRAMA CHANNEL  HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30311
-#EXTINF:-1,tvg-id="ctv.montreal.cfcf.qc.ca" tvg-logo="" tvg-name="CA CTV MONTREAL HD" group-title="Canada",CA CTV MONTREAL HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/120127
-#EXTINF:-1,tvg-id="ctv.sci.fi.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/CTV_Sci-Fi_Channel_2019.svg/320px-CTV_Sci-Fi_Channel_2019.svg.png" tvg-name="CA CTV SCI-FI CHANNEL  HD" group-title="Canada",CA CTV SCI-FI CHANNEL  HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30310
-#EXTINF:-1,tvg-id="ctv2.toronto.on.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/CTV_2_2018.svg/320px-CTV_2_2018.svg.png" tvg-name="CA CTV2 TORONTO HD" group-title="Canada",CA CTV2 TORONTO HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30172
-#EXTINF:-1,tvg-id="discovery.can.ca" tvg-logo="http://x.iptv-pure.com/discovery.png" tvg-name="CA DISCOVERY CHANNEL Canada HD" group-title="Canada",CA DISCOVERY CHANNEL Canada HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30294
-#EXTINF:-1,tvg-id="discovery.science.Canada.ca" tvg-logo="http://f.iptv-pure.com/discoveryscience.png" tvg-name="CA DISCOVERY SCIENCE Canada HD" group-title="Canada",CA DISCOVERY SCIENCE Canada HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30293
-#EXTINF:-1,tvg-id="discovery.velocity.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/34/Discovery_Velocity_logo.jpg" tvg-name="CA DISCOVERY VELOCITY HD" group-title="Canada",CA DISCOVERY VELOCITY HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30295
-#EXTINF:-1,tvg-id="disney.Canada.east.ca" tvg-logo="http://f.iptv-pure.com/disneychannel.png" tvg-name="CA DISNEY CHANNEL HD" group-title="Canada",CA DISNEY CHANNEL HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30292
-#EXTINF:-1,tvg-id="disney.junior.Canada.ca" tvg-logo="http://x.iptv-pure.com/disneyjunior.png" tvg-name="CA DISNEY JR HD" group-title="Canada",CA DISNEY JR HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30291
-#EXTINF:-1,tvg-id="disney.xd.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/200px-Disney_XD_-_2015.svg.png" tvg-name="CA DISNEY XD HD" group-title="Canada",CA DISNEY XD HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30289
-#EXTINF:-1,tvg-id="do.it.yourself.network.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/DIY_Canada.svg/200px-DIY_Canada.svg.png" tvg-name="CA DIY HD" group-title="Canada",CA DIY HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30290
-#EXTINF:-1,tvg-id="food.network.Canada.ca" tvg-logo="http://x.iptv-pure.com/astra28.2/1_0_1_CD14_902_2_11A0000_0_0_0.png" tvg-name="CA FOOD NETWORK HD" group-title="Canada",CA FOOD NETWORK HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30279
-#EXTINF:-1,tvg-id="fox.wutv.buffalo.ny.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/KXLT-TV_Logo.png" tvg-name="CA FOX 29 BUFFALO HD" group-title="Canada",CA FOX 29 BUFFALO HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30278
-#EXTINF:-1,tvg-id="global.bc.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/200px-Global_Television_Network_Logo.svg.png" tvg-name="CA GLOBAL NATIONAL HD" group-title="Canada",CA GLOBAL NATIONAL HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30180
-#EXTINF:-1,tvg-id="hbo.ca" tvg-logo="http://f.iptv-pure.com/astrahotbird/1_0_19_307_C94_3_EB0000_0_0_0.png" tvg-name="CA HBO 1 HD" group-title="Canada",CA HBO 1 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30265
-#EXTINF:-1,tvg-id="dummy.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" tvg-name="CA HBO 2 HD" group-title="Canada",CA HBO 2 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30264
-#EXTINF:-1,tvg-id="hgtv.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/HGTV_Canada_2012_logo.svg/286px-HGTV_Canada_2012_logo.svg.png" tvg-name="CA HGTV HD" group-title="Canada",CA HGTV HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30263
-#EXTINF:-1,tvg-id="historia.ca" tvg-logo="http://x.iptv-pure.com/Canada/historia.png" tvg-name="CA HISTORIA HD" group-title="Canada",CA HISTORIA HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21008
-#EXTINF:-1,tvg-id="ici.cbvt.quebec.qc.ca" tvg-logo="http://x.iptv-pure.com/Canada/icirad.png" tvg-name="CA ICI RADIO-Canada TELE HD" group-title="Canada",CA ICI RADIO-Canada TELE HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21007
-#EXTINF:-1,tvg-id="ici.cbvt.quebec.qc.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/ICI_T%C3%A9l%C3%A9_logo.svg/320px-ICI_T%C3%A9l%C3%A9_logo.svg.png" tvg-name="CA ICI TELE HD" group-title="Canada",CA ICI TELE HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98902
-#EXTINF:-1,tvg-id="moi.et.compagnie.ca" tvg-logo="http://x.iptv-pure.com/Canada/moietcie.png" tvg-name="CA MOI ET CIE HD" group-title="Canada",CA MOI ET CIE HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21033
-#EXTINF:-1,tvg-id="movietime.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Movietime.svg/320px-Movietime.svg.png" tvg-name="CA MOVIETIME HD" group-title="Canada",CA MOVIETIME HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30248
-#EXTINF:-1,tvg-id="much.music.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Much_-_2013_logo.svg/200px-Much_-_2013_logo.svg.png" tvg-name="CA MUCH MUSIC HD" group-title="Canada",CA MUCH MUS:IC HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30245
-#EXTINF:-1,tvg-id="national.geographic.Canada.ca" tvg-logo="http://x.iptv-pure.com/nationalgeographic.png" tvg-name="CA NATIONAL GEOGRAPHIC HD" group-title="Canada",CA NATIONAL GEOGRAPHIC HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30244
-#EXTINF:-1,tvg-id="national.geographic.wild.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/200px-National_Geographic_Wild_logo.svg.png" tvg-name="CA NATIONAL GEOGRAPHIC WILD HD" group-title="Canada",CA NATIONAL GEOGRAPHIC WILD HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30255
-#EXTINF:-1,tvg-id="nbc.wbts.ld.boston.ma.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/WhecLogoAug04.png" tvg-name="CA NBC 8 BOSTON HD" group-title="Canada",CA NBC 8 BOSTON HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30186
-#EXTINF:-1,tvg-id="nickelodeon.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/200px-Nickelodeon_2009_logo.svg.png" tvg-name="CA NICKELODEON HD" group-title="Canada",CA NICKELODE:ON HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30219
-#EXTINF:-1,tvg-id="paramount.network.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/241px-Paramount_Network.svg.png" tvg-name="CA PARAMOUNT NETWORK HD" group-title="Canada",CA PARAMOUNT NETWORK HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30200
-#EXTINF:-1,tvg-id="pbs.wned.buffalo.ny.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/Wned.png" tvg-name="CA PBS 17 BUFFALO HD" group-title="Canada",CA PBS 17 BUFFALO HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30211
-#EXTINF:-1,tvg-id="pbs.kids.wned.tv3.buffalo.ny.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/240px-PBS_Kids_Logo.svg.png" tvg-name="CA PBS KIDS HD" group-title="Canada",CA PBS KIDS HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30210
-#EXTINF:-1,tvg-id="peachtree.wpch.atlanta.ga.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/Peachtree.png" tvg-name="CA PEACHTREE HD" group-title="Canada",CA PEACHTREE HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30209
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="CA SEASONS HD" group-title="Canada",CA SEASONS HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98901
-#EXTINF:-1,tvg-id="series+.ca" tvg-logo="http://x.iptv-pure.com/Canada/seriesplus.png" tvg-name="CA SERIES PLUS HD" group-title="Canada",CA SERIES PLUS: HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21026
-#EXTINF:-1,tvg-id="showcase.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Showcase_Logo_2015.png" tvg-name="CA SHOWCASE HD" group-title="Canada",CA SHOWCASE HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30205
-#EXTINF:-1,tvg-id="silver.screen.classics.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/278px-Silverscreenclassics.svg.png" tvg-name="CA SILVER SCREEN CLASSICS HD" group-title="Canada",CA SILVER SCREEN CLASSICS HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30204
-#EXTINF:-1,tvg-id="starz1.east.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/200px-Starz_2016.svg.png" tvg-name="CA STARZ 1 HD" group-title="Canada",CA STARZ 1 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30190
-#EXTINF:-1,tvg-id="starz2.east.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/200px-Starz_2016.svg.png" tvg-name="CA STARZ 2 HD" group-title="Canada",CA STARZ 2 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30234
-#EXTINF:-1,tvg-id="starz.encore.action.eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/200px-Starz_Encore_Action.svg.png" tvg-name="CA STARZ ENCORE ACTION EAST HD" group-title="Canada",CA STARZ ENCORE ACTION EAST HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30285
-#EXTINF:-1,tvg-id="starz.encore.eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/200px-Starz_2016.svg.png" tvg-name="CA STARZ ENCORE EAST HD" group-title="Canada",CA STARZ ENCORE EAST HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30286
-#EXTINF:-1,tvg-id="super.fuse.ca" tvg-logo="https://www.superchannel.ca/images/brands/general/channels/sc-fuse-lrg.png" tvg-name="CA SUPER CHANNEL FUSE HD" group-title="Canada",CA SUPER CHANNEL FUS:E HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30174
-#EXTINF:-1,tvg-id="super.heart.home.ca" tvg-logo="https://www.superchannel.ca/images/brands/general/channels/sc-hah-lrg.png" tvg-name="CA SUPER CHANNEL HEART & HOME HD" group-title="Canada",CA SUPER CHANNEL HEART & HOME HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30173
-#EXTINF:-1,tvg-id="super.vault.ca" tvg-logo="https://www.superchannel.ca/images/brands/general/channels/sc-vault-lrg.png" tvg-name="CA SUPER CHANNEL VAULT HD" group-title="Canada",CA SUPER CHANNEL VAU:LT HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30192
-#EXTINF:-1,tvg-id="super.ecran.ca" tvg-logo="http://x.iptv-pure.com/Canada/superecran.png" tvg-name="CA SUPER ECRAN 1 HD" group-title="Canada",CA SUPER ECRAN 1 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21025
-#EXTINF:-1,tvg-id="super.ecran.2.ca" tvg-logo="http://x.iptv-pure.com/Canada/superecran.png" tvg-name="CA SUPER ECRAN 2 HD" group-title="Canada",CA SUPER ECRAN 2 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21024
-#EXTINF:-1,tvg-id="super.ecran.3.ca" tvg-logo="http://x.iptv-pure.com/Canada/superecran.png" tvg-name="CA SUPER ECRAN 3 HD" group-title="Canada",CA SUPER ECRAN 3 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21023
-#EXTINF:-1,tvg-id="super.ecran.4.ca" tvg-logo="http://x.iptv-pure.com/Canada/superecran.png" tvg-name="CA SUPER ECRAN 4 HD" group-title="Canada",CA SUPER ECRAN 4 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21022
-#EXTINF:-1,tvg-id="turner.classic.movies.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/200px-TCM_logo.svg.png" tvg-name="CA TCM HD" group-title="Canada",CA TCM HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30191
-#EXTINF:-1,tvg-id="tele.quebec.civm.montreal.ca" tvg-logo="http://x.iptv-pure.com/Canada/telequebec.png" tvg-name="CA TELE QUEBEC HD" group-title="Canada",CA TELE QUEBEC HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21021
-#EXTINF:-1,tvg-id="teletoon.east.ca" tvg-logo="http://x.iptv-pure.com/Canada/teletoon.png" tvg-name="CA TELETOON EAST" group-title="Canada",CA TELETOON EAST
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30189
-#EXTINF:-1,tvg-id="teletoon.francais.ca" tvg-logo="http://x.iptv-pure.com/Canada/teletoon.png" tvg-name="CA TELETOON FRANÇAIS HD" group-title="Canada",CA TELETOON FRANÇAIS HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30188
-#EXTINF:-1,tvg-id="tfo.chaine.francaise.ca" tvg-logo="http://x.iptv-pure.com/Canada/tfo.png" tvg-name="CA TFO HD" group-title="Canada",CA TFO HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21003
-#EXTINF:-1,tvg-id="tlc.Canada.ca" tvg-logo="http://x.iptv-pure.com/astrahotbird/1_0_16_51D5_C96_3_EB0000_0_0_0.png" tvg-name="CA TLC Canada HD" group-title="Canada",CA TLC Canada HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30233
-#EXTINF:-1,tvg-id="treehouse.ca" tvg-logo="" tvg-name="CA TREEHOUSE" group-title="Canada",CA TREEHOUS:E
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30227
-#EXTINF:-1,tvg-id="tva.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/41/TVA_2012_logo.png" tvg-name="CA TVA HD" group-title="Canada",CA TVA HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30328
-#EXTINF:-1,tvg-id="v.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/Vtele.svg/235px-Vtele.svg.png" tvg-name="CA V HD" group-title="Canada",CA V HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30235
-#EXTINF:-1,tvg-id="vrak.ca" tvg-logo="http://x.iptv-pure.com/Canada/vrak.png" tvg-name="CA VRAK TV HD" group-title="Canada",CA VRAK TV HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21012
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="CA VU! TELE A LA CARTE 1 HD" group-title="Canada",CA VU! TELE A LA CARTE 1 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98911
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="CA VU! TELE A LA CARTE 2 HD" group-title="Canada",CA VU! TELE A LA CARTE 2 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98912
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="CA VU! TELE A LA CARTE 3 HD" group-title="Canada",CA VU! TELE A LA CARTE 3 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98913
-#EXTINF:-1,tvg-id="5.ca" tvg-logo="" tvg-name="CA VU! TELE A LA CARTE 4 HD" group-title="Canada",CA VU! TELE A LA CARTE 4 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98914
-#EXTINF:-1,tvg-id="5.ca" tvg-logo="" tvg-name="CA VU! TELE A LA CARTE 5 HD" group-title="Canada",CA VU! TELE A LA CARTE 5 HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98915
-#EXTINF:-1,tvg-id="w.wtn.east.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/W_Network_Logo.svg/200px-W_Network_Logo.svg.png" tvg-name="CA W NETWORK HD" group-title="Canada",CA W NETWORK HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30242
-#EXTINF:-1,tvg-id="wpix.new.york.superstation.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WPIX11.svg/200px-WPIX11.svg.png" tvg-name="CA WPIX 11 NEW YORK HD" group-title="Canada",CA WPIX 11 NEW YORK HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30297
-#EXTINF:-1,tvg-id="yoopa.ca" tvg-logo="http://x.iptv-pure.com/Canada/yoopa.png" tvg-name="CA YOOPA HD" group-title="Canada",CA YOOPA HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21011
-#EXTINF:-1,tvg-id="z.ca" tvg-logo="http://x.iptv-pure.com/Canada/ztele.png" tvg-name="CA Z HD" group-title="Canada",CA Z HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21010
-#EXTINF:-1,tvg-id="abc.wkbw.buffalo.ny.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/ABC7_Logo.png/306px-ABC7_Logo.png" tvg-name="CA ABC 7 BUFFALO HD" group-title="Canada",CA ABC 7 BUFFALO HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30341
-#EXTINF:-1,tvg-id="abc.spark.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/ABC_Spark_Logo.png" tvg-name="CA ABC SPARK HD" group-title="Canada",CA ABC SPARK HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30340
-#EXTINF:-1,tvg-id="addik.ca" tvg-logo="http://x.iptv-pure.com/Canada/addiktv.png" tvg-name="CA ADDIK TV HD" group-title="Canada",CA ADDIK TV HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21045
-#EXTINF:-1,tvg-id="a.e.Canada.ca" tvg-logo="http://x.iptv-pure.com/astrahotbird/1_0_1_772D_416_1_C00000_0_0_0.png" tvg-name="CA A&E HD" group-title="Canada",CA A&E HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30342
-#EXTINF:-1,tvg-id="bravo.usa.eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bravo_TV_%282017_Logo%29.png/318px-Bravo_TV_%282017_Logo%29.png" tvg-name="CA BRAVO FHD" group-title="Canada",CA BRAVO FHD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30327
-#EXTINF:-1,tvg-id="canal.d.ca" tvg-logo="http://x.iptv-pure.com/Canada/canald.png" tvg-name="CA CANAL D HD" group-title="Canada",CA CANAL D HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21043
-#EXTINF:-1,tvg-id="canal.vie.ca" tvg-logo="http://x.iptv-pure.com/Canada/vie.png" tvg-name="CA CANAL VIE HD" group-title="Canada",CA CANAL VIE HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21013
-#EXTINF:-1,tvg-id="cinepop.ca" tvg-logo="http://x.iptv-pure.com/Canada/cinepop.png" tvg-name="CA CINEPOP" group-title="Canada",CA CINEPOP
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21039
-#EXTINF:-1,tvg-id="cinepop.ca" tvg-logo="http://x.iptv-pure.com/Canada/cinepop.png" tvg-name="CA CINEPOP HD" group-title="Canada",CA CINEPOP HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/98905
-#EXTINF:-1,tvg-id="cottage.life.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cottage_Life_Logo.svg/200px-Cottage_Life_Logo.svg.png" tvg-name="CA COTTAGE LIFE HD" group-title="Canada",CA COTTAGE LIFE HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30307
-#EXTINF:-1,tvg-id="crime+.investigation.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="CA CRIME + INVESTIGATION HD" group-title="Canada",CA CRIME + INVESTIGATION HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30304
-#EXTINF:-1,tvg-id="ctv.life.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/CTV_Life_Channel_2019.svg/230px-CTV_Life_Channel_2019.svg.png" tvg-name="CA CTV LIFE CHANNEL HD" group-title="Canada",CA CTV LIFE CHANNEL HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30267
-#EXTINF:-1,tvg-id="daystar.Canada.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Daystar_TV.PNG/200px-Daystar_TV.PNG" tvg-name="CA DAYSTAR TV" group-title="Canada",CA DAYSTAR TV
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30296
-#EXTINF:-1,tvg-id="deja.view.ca" tvg-logo="" tvg-name="CA DEJAVIEW TV" group-title="Canada",CA DE:JAVIEW TV
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/118284
-#EXTINF:-1,tvg-id="evasion.ca" tvg-logo="http://x.iptv-pure.com/Canada/evasion.png" tvg-name="CA EVASION HD" group-title="Canada",CA EVASION HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21002
-#EXTINF:-1,tvg-id="family.Canada.east.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/Family_Channel_2017.png" tvg-name="CA FAMILY CHANNEL EAST HD" group-title="Canada",CA FAMILY CHANNEL EAST HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30283
-#EXTINF:-1,tvg-id="family.chrgd.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Family_Chrgd_logo.svg/225px-Family_Chrgd_logo.svg.png" tvg-name="CA FAMILY CHRGD HD" group-title="Canada",CA FAMILY CHRGD HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30284
-#EXTINF:-1,tvg-id="family.jr.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/Family_Jr._logo.svg/320px-Family_Jr._logo.svg.png" tvg-name="CA FAMILY JR HD" group-title="Canada",CA FAMILY JR HD
-http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30282
 #EXTINF:-1,tvg-id="fashion.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/200px-Fashion_TV_logo.svg.png" tvg-name="CA FASHION TV Canada" group-title="Canada",CA FASHION TV Canada
 http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30275
 #EXTINF:-1,tvg-id="abc.wcvb.boston.ma.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/KOMO_4_2015.svg/200px-KOMO_4_2015.svg.png" tvg-name="CA ABC 5 BOSTON HD" group-title="Canada",CA ABC 5 BOSTON HD
@@ -747,8 +519,6 @@ http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30241
 http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/30236
 #EXTINF:-1,tvg-id="zeste.ca" tvg-logo="http://x.iptv-pure.com/Canada/zeste.png" tvg-name="CA ZESTE HD" group-title="Canada",CA ZESTE HD
 http://iptv-pure.com:8000/Catalinpalade/o36LsbvBR7/21009
-#EXTINF:-1,tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2020/10/logo_transparent.png" tvg-name="ZEDBMX 8K" group-title="▶®™GENERALE™®◀",ZEDBMX 8K
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/22840
 #EXTINF:-1,tvg-id="ProTV.ro" tvg-logo="https://rohd.live/wp-content/uploads/2020/10/protv_hd.png" tvg-name="PRO TV" group-title="Generale",PRO TV HD
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16411
 #EXTINF:-1,tvg-id="TVR1.ro" tvg-logo="http://iptv.live/images/logo/channel/crops/f1c548f1c572d862976d546e7ae28922.png" tvg-name="TVR 1" group-title="Generale",TVR 1 HD
@@ -975,6 +745,8 @@ http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20215
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20207
 #EXTINF:-1,tvg-id="" tvg-logo="https://i.ibb.co/DgXftdL/skynet-tv.jpg" tvg-name="Skyline Romani au Talent 2020" group-title="Filme",Skyline Romani au Talent 2020
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20216
+#EXTINF:-1,tvg-id="" tvg-logo="https://rohd.net/wp-content/uploads/2020/10/logo_transparent.png" tvg-name="ZEDBMX 8K" group-title="▶®™GENERALE™®◀",ZEDBMX 8K
+http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/22840
 #EXTINF:-1,tvg-id="" tvg-logo="https://i.ibb.co/DgXftdL/skynet-tv.jpg" tvg-name="Skynet Actiune" group-title="Filme",Skynet Actiune
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20211
 #EXTINF:-1,tvg-id="" tvg-logo="https://i.ibb.co/DgXftdL/skynet-tv.jpg" tvg-name="Skynet Arte Martiale" group-title="Filme",Skynet Arte Martiale
@@ -1187,32 +959,8 @@ http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18273
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18274
 #EXTINF:-1,tvg-id="" tvg-logo="https://iptvgjolli.com/germany/VOX.png" tvg-name="DE VOX" group-title="Germania",DE: VOX
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18275
-#EXTINF:-1,tvg-id="" tvg-logo="https://iptvgjolli.com/germany/VOXHD.png" tvg-name="DE VOX  HD" group-title="Germania",DE: VOX  HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18276
-#EXTINF:-1,tvg-id="" tvg-logo="https://iptvgjolli.com/germany/TELE5HD.png" tvg-name="DE Tele 5 HD" group-title="Germania",DE: Tele 5 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18277
-#EXTINF:-1,tvg-id="" tvg-logo="https://iptvgjolli.com/germany/SIXXHD.png" tvg-name="DE Sixx" group-title="Germania",DE: Sixx
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18278
-#EXTINF:-1,tvg-id="" tvg-logo="https://iptvgjolli.com/germany/SIXXHD.png" tvg-name="DE SIXX HD" group-title="Germania",DE: SIXX HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18279
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE WDR HD" group-title="Germania",DE: WDR HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18286
-#EXTINF:-1,tvg-id="" tvg-logo="https://iptvgjolli.com/germany/NDR.png" tvg-name="DE NDR HD" group-title="Germania",DE: NDR HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18287
-#EXTINF:-1,tvg-id="" tvg-logo="https://iptvgjolli.com/germany/N-TV.png" tvg-name="DE N-TV HD" group-title="Germania",DE: N-TV HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18288
-#EXTINF:-1,tvg-id="" tvg-logo="https://iptvgjolli.com/germany/N-TV.png" tvg-name="DE N-TV" group-title="Germania",DE: N-TV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18289
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE ORF 1 HD" group-title="Germania",DE: ORF 1 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18290
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE ORF 2 HD" group-title="Germania",DE: ORF 2 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18291
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE ORF 3 HD" group-title="Germania",DE: ORF 3 HD
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18292
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE Puls 4" group-title="Germania",DE: Puls 4
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18293
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="AU Puls4" group-title="Germania",AT: Puls4
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18294
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE ATV 2" group-title="Germania",DE: ATV 2
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18295
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="AU ATV2" group-title="Germania",AT: ATV2
@@ -1247,8 +995,6 @@ http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20246
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20247
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="AU: FOX SPORTS NEWS" group-title="Germania",AT: FOX SPORTS NEWS
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20248
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="AU: NITV" group-title="Germania",AT: NITV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20249
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="AU: SBS TV" group-title="Germania",AT: SBS TV
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20250
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="AU: FOX SPORTS 506" group-title="Germania",AT: FOX SPORTS 506
@@ -1259,8 +1005,6 @@ http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/20252
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18298
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE Sky Cinema Premieren HD" group-title="Germania",DE: Sky Cinema Premieren HD
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18299
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE Sky Cinema Premieren +24 HD" group-title="Germania",DE: Sky Cinema Premieren +24 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18300
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE Sky Cinema Special HD" group-title="Germania",DE: Sky Cinema Special HD
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18301
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DE Sky Cinema Classics" group-title="Germania",DE: Sky Cinema Classics
@@ -2077,168 +1821,8 @@ http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18764
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18765
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="*F R: CANALPLAY 17 FHD" group-title="Franta",FR:CANALPLAY 17 FHD
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18766
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="*F R: CANALPLAY 18 FHD" group-title="Franta",FR: CANALPLAY 18 FHD
+#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="*F R: CANALPLAY 18 FHD" group-title="Franta",*F R: CANALPLAY 18 FHD
 http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18767
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="*F R: CANALPLAY MULTIVISION 1 FHD" group-title="Franta",FR:CANALPLAY MULTIVISION 1 FHD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18768
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="*F R: CANALPLAY MULTIVISION 2 FHD" group-title="Franta",FR:CANALPLAY MULTIVISION 2 FHD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18769
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="*F R: CANALPLAY MULTIVISION 3 FHD" group-title="Franta",FR:CANALPLAY MULTIVISION 3 FHD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18770
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: RMC SPORT NEWS HD" group-title="Franta",FR: RMC SPORT NEWS HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18771
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: RMC SPORT 2 HD" group-title="Franta",FR: RMC SPORT 2 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18772
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: RMC SPORT 1 HD" group-title="Franta",FR: RMC SPORT 1 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18773
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: RMC SPORT 3 HD" group-title="Franta",FR: RMC SPORT 3 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18774
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: RMC SPORT 4 HD" group-title="Franta",FR: RMC SPORT 4 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18775
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: beIN SPORTS 1 HD" group-title="Franta",FR: beIN SPORTS 1 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18776
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: beIN SPORTS 2 HD" group-title="Franta",FR: beIN SPORTS 2 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18777
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: beIN SPORTS 3 HD" group-title="Franta",FR: beIN SPORTS 3 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18778
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: beIN SPORTS 4 MAX" group-title="Franta",FR: beIN SPORTS 4 MAX
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18779
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: beIN SPORTS 5 MAX" group-title="Franta",FR: beIN SPORTS 5 MAX
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18780
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: beIN SPORTS 6 MAX" group-title="Franta",FR: beIN SPORTS 6 MAX
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18781
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: beIN SPORTS 7 MAX" group-title="Franta",FR: beIN SPORTS 7 MAX
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18782
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: beIN SPORTS 9 MAX" group-title="Franta",FR: beIN SPORTS 9 MAX
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18783
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: beIN SPORTS 10 MAX" group-title="Franta",FR: beIN SPORTS 10 MAX
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18784
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: Antenne Reunion" group-title="Franta",FR: Antenne Reunion
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18785
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: ILTV" group-title="Franta",FR: ILTV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18786
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: MY COMEDY" group-title="Franta",FR: MY COMEDY
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18787
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: TVM3 FHD" group-title="Franta",FR: TVM3 FHD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18788
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: TF1 Series Films HD" group-title="Franta",FR: TF1 Series Films HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18789
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: LCI" group-title="Franta",FR: LCI
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18790
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: Canal+ Sport HD" group-title="Franta",FR: Canal+ Sport HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18791
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: Foot+ 24/24 HD" group-title="Franta",FR: Foot+ 24/24 HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18792
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: Canal Plus Sport HD" group-title="Franta",FR: Canal Plus Sport HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18793
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: LCP `" group-title="Franta",FR: LCP `
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18794
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="*FR: RTL FHD `" group-title="Franta",FR: RTL FHD `
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18795
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="FR: TFX HD" group-title="Franta",FR: TFX HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18796
-#EXTINF:-1,tvg-id="foodtv.ro" tvg-logo="" tvg-name="Food Network" group-title="Documentare" ,Food Network
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16539
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Viasat Explore" group-title="Documentare" ,Viasat Explore
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16514
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Fine Living" group-title="Documentare" ,Fine Living
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16536
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="E! Entertainment HD" group-title="Documentare" ,E! Entertainment HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16533
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Digi World HD" group-title="Documentare" ,Digi World HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16502
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="DIGI WORLD" group-title="Documentare" ,Digi World
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16501
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="DIGI LIFE" group-title="Documentare" ,Digi Life
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16497
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="TravelXP" group-title="Documentare" ,TravelXP
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16525
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="TravelXP HD" group-title="Documentare" ,TravelXP HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16526
-#EXTINF:-1,tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bOth4QmNyEkalwahfPCfiXjNh1r.jpg" tvg-name="Discovery Turbo Xtra" group-title="Documentare" ,Discovery Turbo Xtra
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16508
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Discovery Channel" group-title="Documentare" ,Discovery Channel
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16504
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Discovery Channel HD" group-title="Documentare" ,Discovery Channel HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16505
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="ID Investigation Discovery" group-title="Documentare" ,ID Investigation Discovery
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16510
-#EXTINF:-1,tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" tvg-name="Animal Planet HD" group-title="Documentare" ,Animal Planet HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16490
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="BBC Earth" group-title="Documentare" ,BBC Earth
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16491
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="BBC Earth HD" group-title="Documentare" ,BBC Earth HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16492
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="DocuBox" group-title="Documentare" ,DocuBox
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16518
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="DocuBox HD" group-title="Documentare" ,DocuBox HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16519
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Nat Geo Wild HD" group-title="Documentare" ,Nat Geo Wild HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16487
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="NAT GEO WILD" group-title="Documentare" ,Nat Geo Wild
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16486
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HGTV" group-title="Documentare" ,HGTV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16529
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="HGTV HD" group-title="Documentare" ,HGTV HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16530
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="TLC" group-title="Documentare" ,TLC
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16534
-#EXTINF:-1,tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="The Fishing and Hunting Channel" group-title="Documentare" ,The Fishing and Hunting Channel
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/18640
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="TV PAPRIKA" group-title="Documentare" ,TV Paprika
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16537
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Travel MIX HD" group-title="Documentare" ,Travel Mix HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16524
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Travel Channel HD" group-title="Documentare" ,Travel Channel HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16528
-#EXTINF:-1,tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="Travel Channel" group-title="Documentare" ,Travel Channel
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16527
-#EXTINF:-1,tvg-ID="" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/02/the_fishing_hunting_channel_se_eu.png" tvg-name="Viasat Nature HD" group-title="Documentare" ,Viasat Nature HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16513
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="VIASAT NATURE" group-title="Documentare" ,Viasat Nature
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16512
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="VIASAT HISTORY" group-title="Documentare" ,Viasat History
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16516
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Digi Animal World HD" group-title="Documentare" ,Digi Animal World HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16500
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="DIGI ANIMAL WORLD" group-title="Documentare" ,Digi Animal World
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16499
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="DAVINCI LEARNING" group-title="Documentare" ,DaVinci Learning
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16496
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="CBS Reality" group-title="Documentare" ,CBS Reality
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16493
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="DISCOVERY SCIENCE" group-title="Documentare" ,Discovery Science
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16506
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="VIASAT HISTORY HD" group-title="Documentare" ,Viasat History HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16517
-#EXTINF:-1,tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" tvg-name="Nat Geo People" group-title="Documentare",Nat Geo People
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16488
-#EXTINF:-1,tvg-id="" tvg-logo="https://rohd.live/wp-content/uploads/2020/10/AGROTV.png" tvg-name="AGRO TV" group-title="Regionale",Agro TV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16421
-#EXTINF:-1,tvg-id="" tvg-logo="http://iptv.live/images/logo/channel/crops/bc6006e230a58f649078fd6eb7575732.png" tvg-name="Alfa Omega TV" group-title="Regionale",Alfa Omega TV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16588
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Credo TV" group-title="Regionale",Credo TV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16587
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Medika TV" group-title="Regionale",Medika TV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16535
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="NCN" group-title="Regionale",NCN
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16430
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Neptun TV" group-title="Regionale",IDA TV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16540
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Profit.ro" group-title="Regionale",Profit.ro
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16431
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="SPERANTA TV" group-title="Regionale",Speranta TV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16585
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="Tezaur TV" group-title="Regionale",Tezaur TV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16547
-#EXTINF:-1,tvg-ID="" tvg-logo="" tvg-name="TRINITAS TV" group-title="Regionale",Trinitas TV
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16586
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Arcadia World HD" group-title="Life Style",Arcadia World HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16531
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="E! Entertainment" group-title="Life Style",E! Entertainment
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16532
-#EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Fashion TV HD" group-title="Life Style",Fashion TV HD
-http://zd.gbx.name:8880/u7Uy6rfk9X/mw0B94r7fJ/16541
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Double Date (2017)" group-title="Filme VOD",Double Date (2017)
 http://zd.gbx.name:8880/movie/u7Uy6rfk9X/mw0B94r7fJ/20907.mkv
 #EXTINF:-1,tvg-id="" tvg-logo="" tvg-name="Dear Zindagi (2016)" group-title="Filme VOD",Dear Zindagi (2016)
