@@ -1,6 +1,6 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1,xui-id="16578",tvg-id=""	tvg-logo="http://zedtv.website/wp-content/uploads/2020/11/nick_jr_hd.png" tvg-name="Nick Jr" group-title="01_KIDS",Nick Jr
+#EXTM3U            
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"            
+#EXTINF:-1,xui-id="16578",tvg-id="" tvg-logo="http://zedtv.website/wp-content/uploads/2020/11/nick_jr_hd.png" tvg-name="Nick Jr" group-title="01_KIDS",Nick Jr
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGe4JGLVGPH5Gt3c6e8fvRIq7WQlC6-rLog3YeEwkHFXL/ts
 #EXTINF:-1,xui-id="16575",tvg-id="" tvg-logo="http://zedtv.website/wp-content/uploads/2020/11/Disney-Channl.png" tvg-name="Disney Channel" group-title="01_KIDS",Disney Channel
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGTYOYUvkTLrH1jIQm0ESoGeJk4MQprVKdknde8uRpaCZ/ts
@@ -22,27 +22,27 @@ http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGVDHMhB9ijPtIQ1O1t4sXrcN
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGY64M1T9oQi1aK2eq9LFpfaR1cMPJsosp9A9_JnYCTCk/ts
 #EXTINF:-1,xui-id="16580",tvg-id="" tvg-logo="http://zedtv.website/wp-content/uploads/2020/11/nickelodeon_hd.png" tvg-name="Nickelodeon" group-title="01_KIDS",Nickelodeon
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGYP3n5WVz83wkkhrcR9pz9lMV18NYoE6-9OttpdByTDC/ts
-#EXTINF:-1,xui-id="49359",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/disney.png" tvg-name="DE: Disney Channel" group-title="01_Kids",DE: Disney Channel
+#EXTINF:-1,xui-id="49359",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/disney.png" tvg-name="DE: Disney Channel" group-title="01_KIDS",DE: Disney Channel
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGWwfDdyrhXJf93qKv_lVHVcWQLQ7Q2ylycm49zUF1PXY/ts
-#EXTINF:-1,xui-id="49360",tvg-id="" tvg-logo="https://iptvgjolli.com/germany/BOOMERANG.png" tvg-name="DE: Boomerang" group-title="01_Kids",DE: Boomerang
+#EXTINF:-1,xui-id="49360",tvg-id="" tvg-logo="https://iptvgjolli.com/germany/BOOMERANG.png" tvg-name="DE: Boomerang" group-title="01_KIDS",DE: Boomerang
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGQW0HNGqSu2mNR6aH1KtBHII3WdPwQuEHOTwL9N3Gr8p/ts
-#EXTINF:-1,xui-id="49361",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/nick.png" tvg-name="DE: Nick HD" group-title="01_Kids",DE: Nick HD
+#EXTINF:-1,xui-id="49361",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/nick.png" tvg-name="DE: Nick HD" group-title="01_KIDS",DE: Nick HD
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGUwT-xA8LB2L9aWnm5jngVmEWtpQJlEniBeiXqGaLTNS/ts
-#EXTINF:-1,xui-id="49362",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/junior.png" tvg-name="DE: Junior HD" group-title="01_Kids",DE: Junior HD
+#EXTINF:-1,xui-id="49362",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/junior.png" tvg-name="DE: Junior HD" group-title="01_KIDS",DE: Junior HD
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGVJLp9DuMQPrnKRtOMvXBW15E444v2V9z63vOOzIvUcf/ts
-#EXTINF:-1,xui-id="49363",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/nick.png" tvg-name="DE: Nickelodeon" group-title="01_Kids",DE: Nickelodeon
+#EXTINF:-1,xui-id="49363",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/nick.png" tvg-name="DE: Nickelodeon" group-title="01_KIDS",DE: Nickelodeon
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGQvs2stO2agYL1KyrlrIKDr9UOVHMj0IRzqrlceRIelN/ts
-#EXTINF:-1,xui-id="49364",tvg-id="" tvg-logo="" tvg-name="DE: Nick Jr" group-title="01_Kids",DE: Nick Jr
+#EXTINF:-1,xui-id="49364",tvg-id="" tvg-logo="" tvg-name="DE: Nick Jr" group-title="01_KIDS",DE: Nick Jr
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGZ_TwpKQEp-FL3EVyGZGCV7LkEAqKBULgC0Y3jCCI4NW/ts
-#EXTINF:-1,xui-id="49365",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/nick.png" tvg-name="DE: Nickelodeon Schweiz HD" group-title="01_Kids",DE: Nickelodeon Schweiz HD
+#EXTINF:-1,xui-id="49365",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/nick.png" tvg-name="DE: Nickelodeon Schweiz HD" group-title="01_KIDS",DE: Nickelodeon Schweiz HD
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGf7TXrdvE5hMSaEnEcqYVGvsHcr20rz6lf4crEcy91EF/ts
-#EXTINF:-1,xui-id="49366",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/disneyjr.png" tvg-name="DE: Disney Junior" group-title="01_Kids",DE: Disney Junior
+#EXTINF:-1,xui-id="49366",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/disneyjr.png" tvg-name="DE: Disney Junior" group-title="01_KIDS",DE: Disney Junior
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGdTtXy8noV2uH522i2NDhzc5SKHITAwUliyQ8MdX5clX/ts
-#EXTINF:-1,xui-id="49367",tvg-id="" tvg-logo="https://iptvgjolli.com/germany/CARTOONNETWORK.png" tvg-name="DE: Cartoon Network" group-title="01_Kids",DE: Cartoon Network
+#EXTINF:-1,xui-id="49367",tvg-id="" tvg-logo="https://iptvgjolli.com/germany/CARTOONNETWORK.png" tvg-name="DE: Cartoon Network" group-title="01_KIDS",DE: Cartoon Network
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGf2edrmoMJdbtK5RtnIKB2KQvP0TPEHskqo0fBK-Izhw/ts
-#EXTINF:-1,xui-id="49368",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/toggo.png" tvg-name="DE: Toggo Plus" group-title="01_Kids",DE: Toggo Plus
+#EXTINF:-1,xui-id="49368",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/toggo.png" tvg-name="DE: Toggo Plus" group-title="01_KIDS",DE: Toggo Plus
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGQKQXjdpzsyu7TjiC67eTAYwh3GUJ_zcbgZDi1QiZjbk/ts
-#EXTINF:-1,xui-id="49369",tvg-id="" tvg-logo="" tvg-name="DE: Baby TV" group-title="01_Kids",DE: Baby TV
+#EXTINF:-1,xui-id="49369",tvg-id="" tvg-logo="" tvg-name="DE: Baby TV" group-title="01_KIDS",DE: Baby TV
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGbvxr8s2eEl6EPbSWW4EyspbCy-axhnLWdixizRunklO/ts
 #EXTINF:-1,xui-id="51268",tvg-id="" tvg-logo="http://mma.mmafan.biz:8880/images/5277e4454ccfd57217247d0a4b8b6ea8.jpg" tvg-name="101 dalmațieni II: Aventura în Londra a lui Petic (2003)" group-title="ANIMATE",101 dalmațieni II: Aventura în Londra a lui Petic (2003)
 http://exclusiv.dynns.com:8880/play/ShCgGzMw4fTa_-m2R8yYC0Ieztvwrybb4xDdg9OGDgobpzOtgB7IpZQ6KkplkhIE
@@ -610,3 +610,53 @@ http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGXc2pjaicBQr1dLvS9CYj88V
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGQUdLh830wA6gv7c2j8teDvC5hoDWdZQLslwxCLHQs6R/ts
 #EXTINF:-1,xui-id="49253",tvg-id="" tvg-logo="https://moneroiptv.net/logot/germany/ProSieben.png" tvg-name="DE: Pro Sieben Maxx HD" group-title="Germania",DE: Pro Sieben Maxx HD
 http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGTF-jrKhCoisAMdiBOtOWWNSgvzRKkxhhww_cW6fVLWA/ts
+#EXTINF:-1,xui-id="48560",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/cbc_hd.jpg" tvg-name="CA: CBC HD" group-title="Canada",CA: CBC HD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGQl-TTDfC-uiaW9L9Vh9fB1EH8f3FHClWMd8fsYfr3RV/ts
+#EXTINF:-1,xui-id="48561",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/cbc_ottawa.jpg" tvg-name="CA: CBC Ottawa HD" group-title="Canada",CA: CBC Ottawa HD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGcVPDWMZPUPBcZmn9Q-sDBOVNb5linuJKFFMgW204YCE/ts
+#EXTINF:-1,xui-id="48562",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/cnbc-hd-cnbc-logo.jpg" tvg-name="CA: CBC News HD" group-title="Canada",CA: CBC News HD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGZN2CND4suHfRaeC3ueOJL7XoMY9XpQry-ZqAgn_xYvy/ts
+#EXTINF:-1,xui-id="48563",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/cbc_montreal.jpg" tvg-name="CA: CBC Montreal" group-title="Canada",CA: CBC Montreal
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGeQy_PkkDaX5SMJM43hhCmz9xKTz0QEUEUr0jJeRMLXQ/ts
+#EXTINF:-1,xui-id="48564",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/cbc_toronto.jpg" tvg-name="CA: CBC Toronto HD" group-title="Canada",CA: CBC Toronto HD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGVNHAXFJhJJSOkRj557R4DmEgvbr-XmOzjxjNZYbxJbc/ts
+#EXTINF:-1,xui-id="48566",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/CTV-News.png" tvg-name="CA: CTV News Channel HD" group-title="Canada",CA: CTV News Channel HD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGXjy1aMg_5IxPqwtuOBAxnHvqJ1S3TjHPvo4mjkrVjhL/ts
+#EXTINF:-1,xui-id="48571",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/amchddd.png" tvg-name="CA: AMC HD" group-title="Canada",CA: AMC HD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGdF32d7Z-bJaejziHbng9I41Q0KiStsYFLPGWrnlDcgI/ts
+#EXTINF:-1,xui-id="48572",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/ae.png" tvg-name="CA: A&E HD" group-title="Canada",CA: A&E HD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGe5suQvkYAIiE49ZB1dQ_AXVFwhWTK9pnhdh4BwoMc3N/ts
+#EXTINF:-1,xui-id="48573",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/own.png" tvg-name="CA: OWN FHD" group-title="Canada",CA: OWN FHD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGbuu3gVlbT1Zi-Is5mWQLVb02ZH4KbAIH8-2Gkae53HL/ts
+#EXTINF:-1,xui-id="48574",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/wgn.png" tvg-name="CA: WGN 9" group-title="Canada",CA: WGN 9
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGfDnmxjXy5J5Px8ENPGMhJhUEuhyoVWtP_YfAWDXdmR7/ts
+#EXTINF:-1,xui-id="48575",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/wlogo.png" tvg-name="CA: W" group-title="Canada",CA: W
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGXoDl9ceKOcbR9E5MvZ0LWeDDf3IflXUQIiq45n9qh76/ts
+#EXTINF:-1,xui-id="48584",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/tlc-hd.png" tvg-name="CA: TLC HD" group-title="Canada",CA: TLC HD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGRcVX-_cXFMG1IIp4ZLDkHSi45Re0fR-5CNSwrtlv7H9/ts
+#EXTINF:-1,xui-id="48585",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/series_plus.jpg" tvg-name="CA: Series+" group-title="Canada",CA: Series+
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGUF67geYG3dZIQi0nC3q98yHb9mm8dCoAlV7-4HMZ-fc/ts
+#EXTINF:-1,xui-id="48586",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/global.png" tvg-name="CA: Global FHD" group-title="Canada",CA: Global FHD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGR8tuaF1n8tSLtXDnrTY40jpNZ9z-Qhbjm1J7ZPnCWjd/ts
+#EXTINF:-1,xui-id="48591",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/superecran1.png" tvg-name="CA: Super Ecran 1" group-title="Canada",CA: Super Ecran 1
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGVJ8n0uax_7mQROVkNid--DlMGr175W-GdBEygO354yA/ts
+#EXTINF:-1,xui-id="48592",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/superecran2.png" tvg-name="CA: Super Ecran 2" group-title="Canada",CA: Super Ecran 2
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGUpkgW9VpLNb5IX6tqJyS5spPYpGS-9td24fsWqGdTac/ts
+#EXTINF:-1,xui-id="48593",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/superecran3.png" tvg-name="CA: Super Ecran 3" group-title="Canada",CA: Super Ecran 3
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGcm8dUNryd0RXQR7ij0rUyVSqHMtVE6AbWnHHWPB9ghU/ts
+#EXTINF:-1,xui-id="48594",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/super_ecran4.jpg" tvg-name="CA: Super Ecran 4" group-title="Canada",CA: Super Ecran 4
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGcL1X1ptFutzKjHITwgyiPju16DsyEuRO-2p85d_mkmz/ts
+#EXTINF:-1,xui-id="48600",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/cbc_rdi_hd.jpg" tvg-name="CA: RDI" group-title="Canada",CA: RDI
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGXHHes5m44_Ex2GtMPQLE8coIuFLenIXyaC7MaEQs_Li/ts
+#EXTINF:-1,xui-id="48621",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/tva_quebec_ca.jpg" tvg-name="CA: TVA Quebec HD" group-title="Canada",CA: TVA Quebec HD
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGYl4xyiBcEGq4lCM0KoMcG_41UJd5NjKRqQY_wdzaNv0/ts
+#EXTINF:-1,xui-id="48622",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/tele_quebec.jpg" tvg-name="CA: Tele Quebec" group-title="Canada",CA: Tele Quebec
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGdXmxvCFq9M5u9YsqM3I8VGMQA2Jt804IwUFu63Iu1f8/ts
+#EXTINF:-1,xui-id="48623",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/tv5_quebec.jpg" tvg-name="CA: TV5 Quebec" group-title="Canada",CA: TV5 Quebec
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGVbwx9TLn9g_EtczIHCFi85vFjpRURuPzO_DgP_rp0yy/ts
+#EXTINF:-1,xui-id="48624",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/ztele.png" tvg-name="CA: Z-Tele" group-title="Canada",CA: Z-Tele
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGRAIErlTJjHG9BhZWLNuNKBDEqqo6-m8UODvDYGUH7hq/ts
+#EXTINF:-1,xui-id="48627",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/tmn2.png" tvg-name="CA: TMN 2" group-title="Canada",CA: TMN 2
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGQFTEZRxlyVyMu3vjvNQ4yCxkW24R4mxdl2dKjq1yQe7/ts
+#EXTINF:-1,xui-id="48634",tvg-id="" tvg-logo="https://moneroiptv.net/logot/CANADA/ICI_Montreal.png" tvg-name="CA: ICI Montreal" group-title="Canada",CA: ICI Montreal
+http://exclusiv.dynns.com:8880/play/fzq79pLpLPEJSs4oiiQmGeFUV7rj9BPILZmS3lRuY_paR6XmCMDhZ4OeIuqPAgOi/ts
